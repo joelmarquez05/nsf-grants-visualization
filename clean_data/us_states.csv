@@ -1,0 +1,52 @@
+StateName,StateCode,Party2020,Party2025,Latitude,Longitude,Id
+Alabama,AL,Republican,Republican,32.806671,-86.79113,1
+Alaska,AK,Republican,Republican,64.370716,-152.404419,2
+Arizona,AZ,Democrat,Republican,33.729759,-111.431221,4
+Arkansas,AR,Republican,Republican,34.969704,-92.373123,5
+California,CA,Democrat,Democrat,36.116203,-119.681564,6
+Colorado,CO,Democrat,Democrat,39.059811,-105.311104,8
+Connecticut,CT,Democrat,Democrat,41.597782,-72.755371,9
+Delaware,DE,Democrat,Democrat,39.318523,-75.507141,10
+District of Columbia,DC,Democrat,Democrat,38.897438,-77.026817,11
+Florida,FL,Republican,Republican,27.766279,-81.686783,12
+Georgia,GA,Democrat,Republican,33.040619,-83.643074,13
+Hawaii,HI,Democrat,Democrat,21.094318,-157.498337,15
+Idaho,ID,Republican,Republican,44.240459,-114.478828,16
+Illinois,IL,Democrat,Democrat,40.349457,-88.986137,17
+Indiana,IN,Republican,Republican,39.849426,-86.258278,18
+Iowa,IA,Republican,Republican,42.011539,-93.210526,19
+Kansas,KS,Republican,Republican,38.5266,-96.726486,20
+Kentucky,KY,Republican,Republican,37.66814,-84.670067,21
+Louisiana,LA,Republican,Republican,31.169546,-91.867805,22
+Maine,ME,Democrat,Democrat,44.693947,-69.381927,23
+Maryland,MD,Democrat,Democrat,39.063946,-76.802101,24
+Massachusetts,MA,Democrat,Democrat,42.230171,-71.530106,25
+Michigan,MI,Democrat,Republican,43.326618,-84.536095,26
+Minnesota,MN,Democrat,Democrat,45.694454,-93.900192,27
+Mississippi,MS,Republican,Republican,32.741646,-89.678696,28
+Missouri,MO,Republican,Republican,38.456085,-92.288368,29
+Montana,MT,Republican,Republican,46.921925,-108.454353,30
+Nebraska,NE,Republican,Republican,41.12537,-98.268082,31
+Nevada,NV,Democrat,Republican,39.313515,-116.055374,32
+New Hampshire,NH,Democrat,Democrat,43.452492,-71.563896,33
+New Jersey,NJ,Democrat,Democrat,40.298904,-74.521011,34
+New Mexico,NM,Democrat,Democrat,34.840515,-106.248482,35
+New York,NY,Democrat,Democrat,42.165726,-74.948051,36
+North Carolina,NC,Republican,Republican,35.630066,-79.806419,37
+North Dakota,ND,Republican,Republican,47.528912,-99.784012,38
+Ohio,OH,Republican,Republican,40.388783,-82.764915,39
+Oklahoma,OK,Republican,Republican,35.565342,-96.928917,40
+Oregon,OR,Democrat,Democrat,43.572021,-120.070938,41
+Pennsylvania,PA,Democrat,Republican,40.590752,-77.209755,42
+Rhode Island,RI,Democrat,Democrat,41.680893,-71.51178,44
+South Carolina,SC,Republican,Republican,33.856892,-80.945007,45
+South Dakota,SD,Republican,Republican,44.299782,-99.438828,46
+Tennessee,TN,Republican,Republican,35.747845,-86.692345,47
+Texas,TX,Republican,Republican,31.054487,-99.563461,48
+Utah,UT,Republican,Republican,39.150032,-111.862434,49
+Vermont,VT,Democrat,Democrat,44.045876,-72.710686,50
+Virginia,VA,Democrat,Democrat,37.769337,-78.169968,51
+Washington,WA,Democrat,Democrat,47.400902,-120.490494,53
+West Virginia,WV,Republican,Republican,38.491226,-80.954453,54
+Wisconsin,WI,Democrat,Republican,44.268543,-89.616508,55
+Wyoming,WY,Republican,Republican,42.755966,-107.30249,56

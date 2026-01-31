@@ -1,0 +1,1817 @@
+AwardID,Status,Year,StateCode,EstimatedBudget,Directorate,DirectorateAbbr,Division,DivisionAbbr
+2201796,Terminated,2022,PA,1051218,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2315095,Terminated,2023,TX,3641116,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2236163,Terminated,2023,NM,609429,STEM Education,EDU,Undergraduate Education,DUE
+2243822,Reinstated,2023,CA,3000000,STEM Education,EDU,Graduate Education,DGE
+2216648,Terminated,2022,OK,2719700,Biological Sciences,BIO,Biological Infrastructure,DBI
+2411946,Terminated,2024,AL,2746938,STEM Education,EDU,Equity for Excellence in STEM,EES
+2317588,Terminated,2024,NV,96228,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2329420,Terminated,2023,WA,44360,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2131508,Terminated,2022,MD,780000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2201809,Terminated,2022,MN,387605,STEM Education,EDU,Equity for Excellence in STEM,EES
+2233683,Reinstated,2023,CA,399048,Engineering,ENG,Engineering Education and Centers,EEC
+2121851,Terminated,2021,ND,737487,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2309308,Terminated,2024,CA,57939,Mathematical and Physical Sciences,MPS,Physics,PHY
+2317780,Terminated,2023,SC,399997,Engineering,ENG,Engineering Education and Centers,EEC
+2201486,Terminated,2022,NE,1500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2224593,Terminated,2023,IL,1034751,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2222234,Terminated,2022,MI,2230181,STEM Education,EDU,Graduate Education,DGE
+2154123,Terminated,2022,UT,441200,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2225567,Terminated,2022,KY,349591,Engineering,ENG,Engineering Education and Centers,EEC
+2228216,Reinstated,2023,CA,7500000,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2224675,Terminated,2023,TX,1750171,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2140647,Terminated,2022,TX,119324,STEM Education,EDU,Undergraduate Education,DUE
+2305330,Reinstated,2023,CA,1250000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2236374,Terminated,2023,AZ,590387,STEM Education,EDU,Undergraduate Education,DUE
+2235130,Terminated,2023,NY,704044,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2200838,Terminated,2022,ID,2795365,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2216826,Terminated,2022,MN,75000,Biological Sciences,BIO,Biological Infrastructure,DBI
+2146983,Terminated,2022,PA,367047,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2240343,Terminated,2023,MI,15598,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2204540,Terminated,2022,OH,300000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2314917,Terminated,2023,SC,375552,STEM Education,EDU,Graduate Education,DGE
+2152441,Terminated,2022,OH,349936,Engineering,ENG,Engineering Education and Centers,EEC
+2301115,Terminated,2023,TX,345353,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2313996,Terminated,2024,NC,1999449,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2233694,Terminated,2023,PA,390382,Biological Sciences,BIO,Biological Infrastructure,DBI
+2223907,Terminated,2023,VA,287877,STEM Education,EDU,Equity for Excellence in STEM,EES
+2224674,Terminated,2023,VA,753640,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2214203,Terminated,2022,CA,549926,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2317570,Reinstated,2024,CA,219726,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2150922,Terminated,2023,NY,2999914,STEM Education,EDU,Undergraduate Education,DUE
+2222482,Terminated,2023,PA,300000,STEM Education,EDU,Graduate Education,DGE
+2315868,Terminated,2023,NY,153472,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2221995,Terminated,2023,TX,92335,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2242927,Terminated,2023,IL,500000,Biological Sciences,BIO,Biological Infrastructure,DBI
+2241070,Reinstated,2023,NY,220000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2329570,Terminated,2023,GA,1207522,STEM Education,EDU,Graduate Education,DGE
+2243109,Terminated,2023,IL,2889959,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411129,Terminated,2024,MI,2804056,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2237461,Terminated,2023,IN,936983,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2315869,Terminated,2023,NV,211470,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2334206,Terminated,2023,AR,71250,Geosciences,GEO,Ocean Sciences,OCE
+2309307,Terminated,2024,NY,288080,Mathematical and Physical Sciences,MPS,Physics,PHY
+2233699,Terminated,2023,WA,1736883,Biological Sciences,BIO,Biological Infrastructure,DBI
+2425826,Terminated,2024,CO,268428,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2327488,Terminated,2024,AL,283448,STEM Education,EDU,Graduate Education,DGE
+2204537,Terminated,2022,MO,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225095,Terminated,2023,CO,346658,STEM Education,EDU,Equity for Excellence in STEM,EES
+2321243,Terminated,2024,IL,340528,STEM Education,EDU,Equity for Excellence in STEM,EES
+2329538,Terminated,2023,SC,1249729,STEM Education,EDU,Graduate Education,DGE
+2306265,Terminated,2023,GA,245079,Engineering,ENG,Engineering Education and Centers,EEC
+2233787,Terminated,2023,WA,1203675,Biological Sciences,BIO,Biological Infrastructure,DBI
+2228173,Terminated,2023,NY,7339241,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2145783,Terminated,2022,CO,569911,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2323037,Terminated,2023,CO,895841,Geosciences,GEO,Earth Sciences,EAR
+2301964,Terminated,2023,AZ,250000,Office Of The Director,O/D,Office of International Science and Engineering,OISE
+2338556,Terminated,2024,AZ,550254,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2204380,Terminated,2022,CO,1249271,STEM Education,EDU,Equity for Excellence in STEM,EES
+2320884,Terminated,2023,DC,500000,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2215409,Terminated,2022,OR,399876,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2305370,Terminated,2023,NY,1250000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2315024,Terminated,2023,OH,378441,STEM Education,EDU,Graduate Education,DGE
+2214215,Reinstated,2022,CA,327276,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2327314,Terminated,2024,NH,332246,STEM Education,EDU,Graduate Education,DGE
+2230683,Terminated,2022,DC,5000000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2210842,Reinstated,2023,CA,90626,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2224248,Terminated,2023,NY,510464,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2404719,Terminated,2024,WA,160000,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2239194,Terminated,2023,MD,603502,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2201466,Terminated,2022,MI,641684,STEM Education,EDU,Equity for Excellence in STEM,EES
+2247959,Terminated,2023,MA,599999,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2119573,Terminated,2021,UT,582983,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2139096,Terminated,2022,AZ,454335,Engineering,ENG,Engineering Education and Centers,EEC
+2317747,Terminated,2023,PA,999801,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2337293,Terminated,2024,NE,660000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2405217,Terminated,2024,CA,100000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2404781,Terminated,2024,WA,160000,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2427641,Terminated,2025,AZ,75000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2215382,Terminated,2022,MA,2997821,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2325090,Terminated,2023,IN,50000,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2120673,Terminated,2022,PA,499668,Biological Sciences,BIO,Biological Infrastructure,DBI
+2335901,Terminated,2024,TX,467186,STEM Education,EDU,Equity for Excellence in STEM,EES
+2415667,Terminated,2024,NE,1999341,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2149798,Terminated,2022,MD,874999,STEM Education,EDU,Equity for Excellence in STEM,EES
+2055382,Terminated,2021,NY,767844,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2418051,Terminated,2024,MN,499249,Biological Sciences,BIO,Biological Infrastructure,DBI
+2411738,Reinstated,2024,NC,1040523,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2315876,Terminated,2023,IN,150968,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2147839,Terminated,2022,MN,1143464,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2405633,Terminated,2025,CA,1396551,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2147011,Reinstated,2022,CA,511230,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2341740,Terminated,2024,IN,146489,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2418349,Terminated,2024,GA,74971,Biological Sciences,BIO,Biological Infrastructure,DBI
+2050922,Terminated,2021,NY,350745,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2241576,Reinstated,2023,CA,1291633,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2419037,Terminated,2025,IL,19992,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2046081,Reinstated,2021,CA,836786,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2404966,Terminated,2025,AZ,2311990,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2224295,Terminated,2023,MI,1659658,STEM Education,EDU,Equity for Excellence in STEM,EES
+2400502,Terminated,2024,NC,607573,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2246607,Terminated,2023,MI,1181311,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2201101,Terminated,2022,OH,381586,STEM Education,EDU,Graduate Education,DGE
+2049130,Terminated,2021,CA,1496842,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2333737,Terminated,2024,GA,1365875,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2045505,Terminated,2021,MI,824665,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115160,Terminated,2021,NC,925733,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2047420,Terminated,2021,IN,513506,Engineering,ENG,Engineering Education and Centers,EEC
+2140891,Terminated,2022,GA,1356072,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2343306,Terminated,2024,OH,30731,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2418859,Terminated,2024,MI,37460,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2048985,Terminated,2021,NC,737186,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2128746,Terminated,2022,OR,301994,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2114242,Terminated,2021,UT,200982,Engineering,ENG,Engineering Education and Centers,EEC
+2314089,Terminated,2023,NY,1737715,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2349503,Terminated,2024,VA,481232,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2055419,Terminated,2021,VA,482348,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2448445,Terminated,2025,TN,1473336,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2422009,Terminated,2024,AZ,249442,Engineering,ENG,Engineering Education and Centers,EEC
+2322496,Terminated,2024,NY,998665,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2417387,Terminated,2024,MD,249998,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2101039,Terminated,2021,AZ,931058,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2201103,Terminated,2022,DC,178119,STEM Education,EDU,Graduate Education,DGE
+2333790,Reinstated,2024,IN,1500000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2316853,Terminated,2023,TN,197978,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2415882,Reinstated,2024,CA,1380596,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2338735,Terminated,2024,NV,1331146,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2404540,Terminated,2024,LA,1199999,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2435089,Terminated,2025,AZ,500000,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2047346,Terminated,2021,CO,489162,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2313869,Terminated,2023,CO,1999998,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2433253,Terminated,2024,IL,593719,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2450295,Terminated,2024,IN,350000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2426487,Terminated,2024,NJ,99470,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2115637,Terminated,2021,WI,2917641,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2403846,Terminated,2024,ME,70343,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2115614,Reinstated,2021,CA,1999250,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2201700,Terminated,2022,MA,411214,STEM Education,EDU,Equity for Excellence in STEM,EES
+2115621,Terminated,2021,MA,2996309,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2408912,Reinstated,2024,CA,275000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2403845,Terminated,2024,WI,85587,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2417884,Reinstated,2025,OR,2000000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2308600,Terminated,2023,IN,365419,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2326588,Terminated,2023,VA,2296493,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2348326,Terminated,2024,PA,173053,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2215167,Terminated,2023,NY,2999757,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2126575,Reinstated,2022,CA,332963,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2436273,Terminated,2024,PA,199060,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2149995,Terminated,2022,PA,1303770,STEM Education,EDU,Equity for Excellence in STEM,EES
+2110604,Terminated,2021,MD,1534605,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2215695,Reinstated,2022,CA,1548342,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2346905,Terminated,2024,AL,850000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2115730,Terminated,2022,MA,2997873,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2402390,Terminated,2024,MI,998995,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2347360,Reinstated,2024,CA,999924,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2122232,Terminated,2021,MN,995110,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2406787,Terminated,2024,ID,1155902,Engineering,ENG,Engineering Education and Centers,EEC
+2345739,Terminated,2024,TX,2992878,STEM Education,EDU,Graduate Education,DGE
+2225209,Terminated,2022,MI,330423,STEM Education,EDU,Equity for Excellence in STEM,EES
+2331874,Terminated,2024,GA,196799,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342438,Terminated,2024,PA,499943,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2317832,Reinstated,2024,CA,2140500,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2414502,Terminated,2024,NY,400000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2435115,Terminated,2024,IL,364801,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2118482,Terminated,2021,WI,388639,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2417006,Terminated,2024,NY,400000,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2411774,Terminated,2024,WA,554973,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2041294,Terminated,2021,NY,58364,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2426971,Terminated,2024,NY,240978,STEM Education,EDU,Equity for Excellence in STEM,EES
+2119630,Terminated,2021,UT,266888,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2126635,Terminated,2022,MN,289083,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2330910,Terminated,2023,MA,99873,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2317714,Terminated,2023,CA,250200,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2348374,Terminated,2024,TX,468821,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2411936,Terminated,2024,AZ,692778,STEM Education,EDU,Equity for Excellence in STEM,EES
+2209192,Terminated,2023,CO,207000,Biological Sciences,BIO,Biological Infrastructure,DBI
+2319810,Terminated,2023,GA,2033398,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2148889,Terminated,2022,TX,399943,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2346166,Terminated,2024,CO,1500000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2333740,Terminated,2024,VA,1500000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2101217,Terminated,2021,NY,1492218,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2403844,Terminated,2024,MN,1265746,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2200437,Terminated,2022,MD,1674715,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2201797,Reinstated,2022,NC,68319,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2331066,Terminated,2023,OH,662350,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2150262,Terminated,2022,CO,524512,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2241805,Reinstated,2023,CA,1391279,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2105701,Terminated,2021,MA,362835,STEM Education,EDU,Graduate Education,DGE
+2432870,Terminated,2024,NY,299738,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2322026,Terminated,2024,CA,1073993,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2237986,Terminated,2023,TX,859504,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2348705,Terminated,2024,NY,346149,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2215592,Terminated,2022,MN,1644124,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411953,Terminated,2024,TX,623267,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404708,Terminated,2024,NY,160000,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2027519,Terminated,2021,IN,349516,Engineering,ENG,Engineering Education and Centers,EEC
+2405431,Terminated,2025,IN,2586924,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2214516,Terminated,2022,MA,2499156,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2200990,Terminated,2022,IN,2010846,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2215138,Terminated,2022,FL,1902274,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2143993,Reinstated,2022,CA,927483,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2425735,Terminated,2024,MD,813628,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2122488,Terminated,2021,TX,596969,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2343236,Terminated,2024,NM,156529,STEM Education,EDU,Equity for Excellence in STEM,EES
+2143934,Terminated,2022,NY,650808,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2321633,Terminated,2024,NC,1000000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2342099,Terminated,2024,IL,499999,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2334964,Terminated,2024,PA,448575,Biological Sciences,BIO,Biological Infrastructure,DBI
+2349742,Terminated,2024,OR,505759,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2119930,Terminated,2021,MA,10000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2320947,Terminated,2023,CA,12599928,STEM Education,EDU,Equity for Excellence in STEM,EES
+2122717,Terminated,2021,CO,699442,STEM Education,EDU,Equity for Excellence in STEM,EES
+2409009,Terminated,2024,OR,2500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404879,Terminated,2024,MD,1074964,STEM Education,EDU,Equity for Excellence in STEM,EES
+2318196,Terminated,2023,NY,699909,STEM Education,EDU,Equity for Excellence in STEM,EES
+2150323,Reinstated,2022,CA,499947,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121950,Terminated,2021,CA,1249922,STEM Education,EDU,Equity for Excellence in STEM,EES
+2303074,Terminated,2023,FL,297013,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308705,Terminated,2023,VA,3000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2207219,Terminated,2023,CO,3075890,STEM Education,EDU,Equity for Excellence in STEM,EES
+2020524,Terminated,2021,CO,221403,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121601,Terminated,2021,SD,999963,STEM Education,EDU,Equity for Excellence in STEM,EES
+2307376,Terminated,2023,OR,1578996,STEM Education,EDU,Equity for Excellence in STEM,EES
+2318302,Terminated,2023,NY,143364,STEM Education,EDU,Equity for Excellence in STEM,EES
+2100242,Terminated,2021,CO,1999994,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121989,Terminated,2022,CO,1139623,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204389,Terminated,2022,NV,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204520,Terminated,2022,DC,999967,STEM Education,EDU,Equity for Excellence in STEM,EES
+2345204,Terminated,2024,NM,499920,STEM Education,EDU,Equity for Excellence in STEM,EES
+2330015,Terminated,2023,IL,670152,STEM Education,EDU,Equity for Excellence in STEM,EES
+2305550,Terminated,2023,WI,1250000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2106571,Terminated,2021,MS,399693,STEM Education,EDU,Equity for Excellence in STEM,EES
+2117351,Terminated,2021,CO,1144442,STEM Education,EDU,Equity for Excellence in STEM,EES
+2426556,Terminated,2024,PA,299980,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308599,Terminated,2023,MO,3497973,STEM Education,EDU,Equity for Excellence in STEM,EES
+2345337,Terminated,2024,NY,986270,STEM Education,EDU,Equity for Excellence in STEM,EES
+2314982,Terminated,2024,CA,1279774,STEM Education,EDU,Equity for Excellence in STEM,EES
+2217329,Terminated,2022,MD,9999720,STEM Education,EDU,Equity for Excellence in STEM,EES
+2318413,Terminated,2023,AZ,485608,STEM Education,EDU,Equity for Excellence in STEM,EES
+2409204,Terminated,2024,WA,1498959,STEM Education,EDU,Equity for Excellence in STEM,EES
+2217346,Terminated,2022,GA,9998289,STEM Education,EDU,Equity for Excellence in STEM,EES
+2318300,Terminated,2023,NY,699469,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225248,Terminated,2023,CA,3506843,STEM Education,EDU,Equity for Excellence in STEM,EES
+2307200,Terminated,2023,NV,3496959,STEM Education,EDU,Equity for Excellence in STEM,EES
+2207361,Terminated,2022,NC,3348469,STEM Education,EDU,Equity for Excellence in STEM,EES
+2207374,Terminated,2023,MD,3007322,STEM Education,EDU,Equity for Excellence in STEM,EES
+2304868,Terminated,2024,TN,921168,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404855,Terminated,2024,CA,2033224,STEM Education,EDU,Equity for Excellence in STEM,EES
+2106583,Terminated,2021,AL,2249658,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121930,Terminated,2022,NY,1314681,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308501,Terminated,2024,CA,2500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2017017,Terminated,2021,WA,1099206,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404536,Terminated,2024,MI,686996,STEM Education,EDU,Equity for Excellence in STEM,EES
+2310386,Terminated,2024,IL,4999924,STEM Education,EDU,Equity for Excellence in STEM,EES
+2305516,Terminated,2023,FL,999919,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204577,Reinstated,2022,TX,1487240,STEM Education,EDU,Equity for Excellence in STEM,EES
+2337063,Terminated,2024,AL,942952,STEM Education,EDU,Undergraduate Education,DUE
+1943467,Reinstated,2021,CA,575000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2007891,Reinstated,2021,CA,339131,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2042181,Reinstated,2021,CA,602345,Geosciences,GEO,Earth Sciences,EAR
+2045795,Reinstated,2021,CA,1111344,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2046737,Reinstated,2021,CA,523776,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2046915,Reinstated,2021,CA,399259,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2047297,Reinstated,2021,CA,576387,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2047663,Reinstated,2022,CA,732000,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2048212,Reinstated,2021,CA,747557,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2048219,Reinstated,2021,CA,765687,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2048280,Reinstated,2021,CA,516000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2048285,Reinstated,2021,CA,613492,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2049979,Reinstated,2021,CA,650000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2054253,Reinstated,2021,CA,971814,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2106404,Reinstated,2022,CA,576018,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2106838,Reinstated,2021,CA,826666,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2106908,Reinstated,2021,CA,1199873,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2107603,Reinstated,2021,CA,299347,Office Of The Director,O/D,Office of International Science and Engineering,OISE
+2119818,Reinstated,2022,CA,850000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2121561,Reinstated,2021,CA,214006,Geosciences,GEO,Earth Sciences,EAR
+2124650,Reinstated,2021,CA,582494,Geosciences,GEO,Earth Sciences,EAR
+2133424,Reinstated,2022,CA,291231,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2133699,Reinstated,2022,CA,192850,Geosciences,GEO,Earth Sciences,EAR
+2134911,Reinstated,2022,CA,306173,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2135747,Reinstated,2022,CA,995498,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2136090,Reinstated,2022,CA,2500000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2140506,Reinstated,2023,CA,365097,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2140675,Reinstated,2022,CA,61578,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2141223,Reinstated,2023,CA,549996,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2141431,Reinstated,2022,CA,459641,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2142269,Reinstated,2022,CA,570098,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2143677,Reinstated,2022,CA,569000,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2143939,Reinstated,2022,CA,828400,Geosciences,GEO,Earth Sciences,EAR
+2143952,Reinstated,2022,CA,599999,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2144466,Reinstated,2022,CA,497877,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2145630,Reinstated,2022,CA,408890,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2146492,Reinstated,2023,CA,543447,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2146577,Reinstated,2022,CA,500000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2146581,Reinstated,2022,CA,593097,Mathematical and Physical Sciences,MPS,Physics,PHY
+2146838,Reinstated,2022,CA,1014000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2149551,Reinstated,2022,CA,393222,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2149782,Reinstated,2022,CA,1704252,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2151093,Reinstated,2022,CA,689661,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2152717,Reinstated,2022,CA,199999,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2152767,Reinstated,2022,CA,364346,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2152774,Reinstated,2022,CA,300000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2153254,Reinstated,2022,CA,409682,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2153758,Reinstated,2022,CA,275000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2153851,Reinstated,2022,CA,524324,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2153972,Reinstated,2022,CA,800000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2154578,Reinstated,2022,CA,315519,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2154590,Reinstated,2022,CA,1788921,Geosciences,GEO,Earth Sciences,EAR
+2200390,Reinstated,2022,CA,287999,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2201645,Reinstated,2022,CA,440316,Geosciences,GEO,Ocean Sciences,OCE
+2202585,Reinstated,2022,CA,318850,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2202743,Reinstated,2022,CA,487779,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2203366,Reinstated,2022,CA,555000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2203519,Reinstated,2022,CA,750000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2204263,Reinstated,2022,CA,635000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2205100,Reinstated,2022,CA,395272,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2205441,Reinstated,2022,CA,1200000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2205900,Reinstated,2022,CA,269690,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2207985,Reinstated,2022,CA,472639,Mathematical and Physical Sciences,MPS,Physics,PHY
+2208272,Reinstated,2022,CA,280000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2209605,Reinstated,2022,CA,1249826,Mathematical and Physical Sciences,MPS,Physics,PHY
+2209700,Reinstated,2022,CA,840000,Mathematical and Physical Sciences,MPS,Physics,PHY
+2209782,Reinstated,2022,CA,364003,Computer and Information Science and Engineering,CSE,Office of Advanced Cyberinfrastructure,OAC
+2210316,Reinstated,2022,CA,552302,Mathematical and Physical Sciences,MPS,Physics,PHY
+2211146,Reinstated,2022,CA,499998,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2211301,Reinstated,2023,CA,813126,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2211557,Reinstated,2023,CA,1200000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2212520,Reinstated,2023,CA,400000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2212981,Reinstated,2022,CA,348878,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2213600,Reinstated,2022,CA,795301,Biological Sciences,BIO,Environmental Biology,DEB
+2213703,Reinstated,2023,CA,269022,Geosciences,GEO,Office of Polar Programs,OPP
+2213843,Reinstated,2022,CA,215000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2214017,Reinstated,2022,CA,550000,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2214631,Reinstated,2022,CA,360000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2214697,Reinstated,2022,CA,741498,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2216386,Reinstated,2023,CA,299999,STEM Education,EDU,Undergraduate Education,DUE
+2217033,Reinstated,2022,CA,948911,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2219946,Reinstated,2023,CA,447262,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2220232,Reinstated,2023,CA,600000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2220295,Reinstated,2023,CA,230352,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2220450,Reinstated,2022,CA,599999,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2220891,Reinstated,2023,CA,349999,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2220968,Reinstated,2022,CA,432824,Geosciences,GEO,Office of Polar Programs,OPP
+2221453,Reinstated,2022,CA,1800000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2221772,Reinstated,2022,CA,380500,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2221871,Reinstated,2023,CA,614000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2223935,Reinstated,2022,CA,564286,Geosciences,GEO,Earth Sciences,EAR
+2224108,Reinstated,2023,CA,587299,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2224322,Reinstated,2023,CA,392690,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2225122,Reinstated,2023,CA,111880,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2225258,Reinstated,2023,CA,349912,STEM Education,EDU,Undergraduate Education,DUE
+2225947,Reinstated,2022,CA,476137,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2227241,Reinstated,2023,CA,320081,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2228982,Reinstated,2023,CA,330000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2229560,Reinstated,2023,CA,805000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2229566,Reinstated,2023,CA,598184,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2230125,Reinstated,2023,CA,997739,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2230828,Reinstated,2023,CA,380707,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2230861,Reinstated,2022,CA,480484,Biological Sciences,BIO,Environmental Biology,DEB
+2231097,Reinstated,2023,CA,1318607,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2232581,Reinstated,2023,CA,707741,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2232606,Reinstated,2023,CA,1871753,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2232794,Reinstated,2023,CA,641180,Biological Sciences,BIO,Environmental Biology,DEB
+2235012,Reinstated,2023,CA,960327,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2235461,Reinstated,2023,CA,1000000,Engineering,ENG,Engineering Education and Centers,EEC
+2236854,Reinstated,2023,CA,549227,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2238245,Reinstated,2024,CA,577041,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2238338,Reinstated,2023,CA,890336,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2240098,Reinstated,2023,CA,916998,Biological Sciences,BIO,Biological Infrastructure,DBI
+2240140,Reinstated,2023,CA,694577,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2240756,Reinstated,2023,CA,45532,Geosciences,GEO,Earth Sciences,EAR
+2241754,Reinstated,2023,CA,506356,Geosciences,GEO,Ocean Sciences,OCE
+2242581,Reinstated,2023,CA,779475,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2242767,Reinstated,2024,CA,399933,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2243697,Reinstated,2023,CA,584997,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2244760,Reinstated,2023,CA,601874,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2245253,Reinstated,2023,CA,499193,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2246355,Reinstated,2023,CA,415996,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2246394,Reinstated,2023,CA,500000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2246598,Reinstated,2023,CA,360000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2246856,Reinstated,2023,CA,579743,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2246904,Reinstated,2023,CA,575000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2246905,Reinstated,2023,CA,360000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2247005,Reinstated,2023,CA,267114,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2247007,Reinstated,2023,CA,444647,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2247034,Reinstated,2023,CA,523629,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2247255,Reinstated,2023,CA,376028,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2247426,Reinstated,2023,CA,900000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2247583,Reinstated,2023,CA,525000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2247677,Reinstated,2023,CA,348127,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2247760,Reinstated,2023,CA,229577,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2247795,Reinstated,2023,CA,300001,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2302147,Reinstated,2023,CA,670000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2302173,Reinstated,2023,CA,322539,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2303037,Reinstated,2023,CA,299938,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2303115,Reinstated,2024,CA,399971,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2303221,Reinstated,2023,CA,256011,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2303610,Reinstated,2023,CA,899544,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2305152,Reinstated,2023,CA,800000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2305631,Reinstated,2023,CA,249999,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2307622,Reinstated,2023,CA,367885,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2308361,Reinstated,2023,CA,226078,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2309315,Reinstated,2023,CA,692351,Mathematical and Physical Sciences,MPS,Physics,PHY
+2309364,Reinstated,2023,CA,641347,Mathematical and Physical Sciences,MPS,Physics,PHY
+2310364,Reinstated,2023,CA,654531,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2312089,Reinstated,2024,CA,614856,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2312094,Reinstated,2023,CA,399999,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2312501,Reinstated,2023,CA,800000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2312872,Reinstated,2023,CA,284500,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2312942,Reinstated,2023,CA,640000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2313083,Reinstated,2023,CA,630000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2314618,Reinstated,2023,CA,8720,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2317180,Reinstated,2023,CA,50000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2317184,Reinstated,2024,CA,499999,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2317549,Reinstated,2023,CA,50000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2318469,Reinstated,2023,CA,599988,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2318736,Reinstated,2023,CA,757500,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2318817,Reinstated,2023,CA,100000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2319552,Reinstated,2023,CA,45000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2319593,Reinstated,2024,CA,199999,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2319901,Reinstated,2024,CA,121652,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2320178,Reinstated,2023,CA,257500,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2323105,Reinstated,2023,CA,490438,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2323113,Reinstated,2024,CA,300000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2323343,Reinstated,2024,CA,332070,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2324326,Reinstated,2024,CA,1925614,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2324943,Reinstated,2024,CA,520000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2325121,Reinstated,2023,CA,673225,Biological Sciences,BIO,Biological Infrastructure,DBI
+2325369,Reinstated,2023,CA,924503,Computer and Information Science and Engineering,CSE,Office of Advanced Cyberinfrastructure,OAC
+2325840,Reinstated,2024,CA,402000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2326840,Reinstated,2023,CA,1113265,Mathematical and Physical Sciences,MPS,Office of Strategic Initiatives,OSI
+2328974,Reinstated,2024,CA,945000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2329124,Reinstated,2024,CA,1957180,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2329192,Reinstated,2024,CA,446250,Engineering,ENG,Engineering Education and Centers,EEC
+2330831,Reinstated,2024,CA,600000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2331033,Reinstated,2023,CA,234994,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2331842,Reinstated,2024,CA,536984,Geosciences,GEO,Earth Sciences,EAR
+2331966,Reinstated,2024,CA,539999,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2332555,Reinstated,2024,CA,400000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2333587,Reinstated,2024,CA,600000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2333935,Reinstated,2024,CA,600000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2333979,Reinstated,2023,CA,611942,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2334027,Reinstated,2024,CA,1200000,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2336013,Reinstated,2024,CA,220100,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2337423,Reinstated,2024,CA,730000,Biological Sciences,BIO,Biological Infrastructure,DBI
+2338237,Reinstated,2024,CA,944511,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2338623,Reinstated,2024,CA,637515,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2339693,Reinstated,2024,CA,680000,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2339766,Reinstated,2024,CA,585544,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2339769,Reinstated,2024,CA,586614,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2340942,Reinstated,2024,CA,598777,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2341040,Reinstated,2024,CA,500000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2342988,Reinstated,2024,CA,396832,Geosciences,GEO,Ocean Sciences,OCE
+2343297,Reinstated,2024,CA,968823,Geosciences,GEO,Ocean Sciences,OCE
+2343357,Reinstated,2024,CA,374800,Geosciences,GEO,Ocean Sciences,OCE
+2343997,Reinstated,2024,CA,1099440,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2344955,Reinstated,2025,CA,850000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2345571,Reinstated,2024,CA,600000,Biological Sciences,BIO,Biological Infrastructure,DBI
+2345816,Reinstated,2024,CA,550000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2346267,Reinstated,2024,CA,1500000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2347850,Reinstated,2024,CA,753374,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2348113,Reinstated,2024,CA,341290,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2348633,Reinstated,2024,CA,421000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2348640,Reinstated,2023,CA,300000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2349315,Reinstated,2024,CA,630000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2349618,Reinstated,2024,CA,321665,Engineering,ENG,Engineering Education and Centers,EEC
+2400140,Reinstated,2024,CA,419448,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2400314,Reinstated,2024,CA,800000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2400337,Reinstated,2024,CA,369924,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2401080,Reinstated,2024,CA,1000000,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2401393,Reinstated,2024,CA,539953,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2402543,Reinstated,2024,CA,946895,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2402958,Reinstated,2025,CA,950000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2403254,Reinstated,2025,CA,599999,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2403400,Reinstated,2025,CA,600000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2403558,Reinstated,2024,CA,195118,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2403592,Reinstated,2024,CA,510000,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2404202,Reinstated,2024,CA,520000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2404470,Reinstated,2024,CA,514000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2404970,Reinstated,2024,CA,473998,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2405476,Reinstated,2025,CA,597224,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2407006,Reinstated,2024,CA,540000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2407277,Reinstated,2024,CA,496041,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2407484,Reinstated,2024,CA,186929,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2408493,Reinstated,2024,CA,461224,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2409276,Reinstated,2024,CA,1800000,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2409284,Reinstated,2024,CA,585274,Mathematical and Physical Sciences,MPS,Physics,PHY
+2409941,Reinstated,2024,CA,900000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2410899,Reinstated,2024,CA,231362,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2411153,Reinstated,2024,CA,330000,Computer and Information Science and Engineering,CSE,Office of Advanced Cyberinfrastructure,OAC
+2413062,Reinstated,2025,CA,987566,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2413248,Reinstated,2024,CA,139999,STEM Education,EDU,Undergraduate Education,DUE
+2413969,Reinstated,2025,CA,715774,Geosciences,GEO,Ocean Sciences,OCE
+2414382,Reinstated,2024,CA,926511,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2414576,Reinstated,2024,CA,1389411,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2415226,Reinstated,2024,CA,200000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2416599,Reinstated,2024,CA,304007,Geosciences,GEO,Office of Polar Programs,OPP
+2418938,Reinstated,2024,CA,399674,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2419464,Reinstated,2024,CA,778024,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2420710,Reinstated,2024,CA,271096,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2421382,Reinstated,2024,CA,567113,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2425161,Reinstated,2024,CA,10000,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2425350,Reinstated,2025,CA,300000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2425858,Reinstated,2024,CA,300000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2426162,Reinstated,2025,CA,281385,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2426363,Reinstated,2025,CA,500000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2427172,Reinstated,2025,CA,389999,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2427558,Reinstated,2024,CA,180000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2431137,Reinstated,2025,CA,353992,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2436343,Reinstated,2025,CA,569051,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2436358,Reinstated,2024,CA,50000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2436722,Reinstated,2025,CA,376781,Geosciences,GEO,Earth Sciences,EAR
+2437344,Reinstated,2024,CA,371172,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2438025,Reinstated,2024,CA,442478,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2439755,Reinstated,2024,CA,25000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2440163,Reinstated,2025,CA,400000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2442522,Reinstated,2025,CA,770945,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2444526,Reinstated,2025,CA,39375,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2446260,Reinstated,2025,CA,17174,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2452346,Reinstated,2025,CA,300000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2452553,Reinstated,2025,CA,50000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2452649,Reinstated,2025,CA,300000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2453395,Reinstated,2025,CA,630000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2453970,Reinstated,2025,CA,539134,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2501451,Reinstated,2025,CA,50000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2502332,Reinstated,2025,CA,839500,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2502740,Reinstated,2025,CA,135000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2505876,Reinstated,2025,CA,300000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2506216,Reinstated,2025,CA,50000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2510949,Reinstated,2025,CA,200000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2512091,Reinstated,2025,CA,350026,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2514382,Reinstated,2025,CA,17000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2516857,Reinstated,2025,CA,625000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2524616,Reinstated,2025,CA,20000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2525377,Reinstated,2025,CA,137592,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2526488,Reinstated,2025,CA,50000,Geosciences,GEO,Earth Sciences,EAR
+2528517,Reinstated,2025,CA,575000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2528522,Reinstated,2025,CA,500290,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2204559,Terminated,2022,GA,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2300608,Terminated,2023,MD,925207,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2022981,Reinstated,2021,MD,1000002,STEM Education,EDU,Equity for Excellence in STEM,EES
+2136375,Reinstated,2022,VA,298713,STEM Education,EDU,Equity for Excellence in STEM,EES
+2008428,Terminated,2021,TX,1500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2011780,Terminated,2021,IL,35630,Mathematical and Physical Sciences,MPS,Physics,PHY
+2017054,Terminated,2021,ND,150001,STEM Education,EDU,Equity for Excellence in STEM,EES
+2017743,Terminated,2021,MO,1009066,STEM Education,EDU,Equity for Excellence in STEM,EES
+2017744,Terminated,2021,AR,1373893,STEM Education,EDU,Equity for Excellence in STEM,EES
+2017802,Terminated,2021,OH,999886,STEM Education,EDU,Equity for Excellence in STEM,EES
+2020491,Terminated,2021,TX,270326,STEM Education,EDU,Equity for Excellence in STEM,EES
+2020548,Terminated,2021,TX,187874,STEM Education,EDU,Equity for Excellence in STEM,EES
+2020697,Terminated,2021,TX,319306,STEM Education,EDU,Equity for Excellence in STEM,EES
+2020709,Terminated,2021,MO,1199997,STEM Education,EDU,Equity for Excellence in STEM,EES
+2034824,Terminated,2021,HI,641379,Engineering,ENG,Engineering Education and Centers,EEC
+2037514,Terminated,2021,CA,1270698,STEM Education,EDU,Equity for Excellence in STEM,EES
+2037515,Terminated,2021,MD,1596333,STEM Education,EDU,Equity for Excellence in STEM,EES
+2038035,Terminated,2021,DC,295885,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2040209,Terminated,2022,NY,443754,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2040684,Terminated,2021,TX,423866,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2041192,Terminated,2021,NC,465738,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2041218,Terminated,2021,IL,765000,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2042870,Terminated,2021,AR,625367,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2043192,Terminated,2021,IL,318536,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2045129,Terminated,2021,CA,591141,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2045432,Terminated,2021,MI,549999,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2045937,Terminated,2021,MO,302902,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2045977,Terminated,2021,MI,512097,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2045981,Terminated,2021,MA,400000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2046045,Terminated,2021,NC,142035,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2046079,Terminated,2021,TX,1062412,STEM Education,EDU,Equity for Excellence in STEM,EES
+2046233,Terminated,2021,MT,695121,STEM Education,EDU,Equity for Excellence in STEM,EES
+2046454,Terminated,2021,IL,599963,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2046607,Terminated,2021,VA,575787,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2046642,Terminated,2021,LA,400000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2046856,Terminated,2021,TN,697306,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2047152,Terminated,2021,MA,881188,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2047192,Terminated,2021,MA,829539,Geosciences,GEO,Earth Sciences,EAR
+2047292,Terminated,2021,DC,695014,STEM Education,EDU,Equity for Excellence in STEM,EES
+2047513,Terminated,2021,MA,711676,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2048018,Terminated,2021,MA,806841,STEM Education,EDU,Graduate Education,DGE
+2048507,Terminated,2021,TX,327848,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2048993,Terminated,2021,NC,812187,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2049023,Terminated,2021,NM,1441169,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2049558,Terminated,2021,DC,336506,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2049799,Terminated,2021,DC,2750000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2050161,Terminated,2021,AR,324987,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2050608,Terminated,2022,DC,800000,STEM Education,EDU,Undergraduate Education,DUE
+2050613,Terminated,2021,GA,374699,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2050803,Terminated,2021,PA,366619,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2050937,Terminated,2021,VA,1025287,Geosciences,GEO,Ocean Sciences,OCE
+2051184,Terminated,2021,NV,360711,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2055039,Terminated,2021,NM,552371,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2055237,Terminated,2021,UT,423133,STEM Education,EDU,Graduate Education,DGE
+2055309,Terminated,2021,CA,275596,STEM Education,EDU,Undergraduate Education,DUE
+2055322,Terminated,2021,MI,921604,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2055343,Terminated,2021,MD,987764,STEM Education,EDU,Equity for Excellence in STEM,EES
+2055345,Terminated,2021,IL,815531,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2055375,Terminated,2021,MI,559600,STEM Education,EDU,Equity for Excellence in STEM,EES
+2055422,Terminated,2022,VA,1167066,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2055426,Reinstated,2021,CA,778346,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2055735,Reinstated,2021,CA,262964,STEM Education,EDU,Undergraduate Education,DUE
+2100017,Terminated,2021,WI,983486,STEM Education,EDU,Graduate Education,DGE
+2100034,Reinstated,2021,TX,2000005,STEM Education,EDU,Equity for Excellence in STEM,EES
+2100122,Terminated,2021,NC,498250,STEM Education,EDU,Equity for Excellence in STEM,EES
+2100129,Terminated,2021,CA,1416201,STEM Education,EDU,Equity for Excellence in STEM,EES
+2100139,Terminated,2021,MD,351259,STEM Education,EDU,Graduate Education,DGE
+2100349,Terminated,2021,MA,445301,STEM Education,EDU,Equity for Excellence in STEM,EES
+2100408,Terminated,2021,AZ,744966,STEM Education,EDU,Equity for Excellence in STEM,EES
+2100693,Terminated,2022,MD,1000416,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2100793,Terminated,2021,DE,651546,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2100835,Terminated,2021,NC,299976,STEM Education,EDU,Equity for Excellence in STEM,EES
+2100876,Terminated,2021,NJ,645050,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2100961,Terminated,2021,MA,1199099,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101083,Terminated,2021,NC,1886928,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101144,Terminated,2021,PA,266281,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101169,Terminated,2021,NC,1611921,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101244,Terminated,2021,DC,484679,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2101255,Terminated,2021,OR,300000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2101277,Terminated,2021,FL,1448590,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101287,Terminated,2021,PA,184478,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101324,Terminated,2021,PA,325502,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101395,Terminated,2021,PA,2031108,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101526,Terminated,2021,MD,1172781,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101665,Terminated,2021,OR,640568,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101667,Terminated,2021,OR,621002,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101668,Terminated,2021,OR,820320,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2101884,Terminated,2021,MA,1632344,Biological Sciences,BIO,Biological Infrastructure,DBI
+2102910,Terminated,2021,DC,2161574,STEM Education,EDU,Equity for Excellence in STEM,EES
+2104150,Terminated,2021,MA,111116,Biological Sciences,BIO,Biological Infrastructure,DBI
+2105048,Terminated,2022,MA,760000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2105903,Terminated,2021,MA,548109,Biological Sciences,BIO,Environmental Biology,DEB
+2106476,Terminated,2021,NY,1197740,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2106666,Terminated,2022,NY,1207500,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2107078,Terminated,2021,MA,1216000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2107285,Terminated,2021,NC,350000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2107298,Terminated,2021,PA,820000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2107391,Terminated,2022,MA,1230000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2109942,Terminated,2022,MI,3000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2110048,Terminated,2021,TX,2017456,STEM Education,EDU,Equity for Excellence in STEM,EES
+2110082,Terminated,2021,NY,1999741,STEM Education,EDU,Equity for Excellence in STEM,EES
+2110083,Terminated,2021,CT,2500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2110112,Terminated,2021,CA,1499686,STEM Education,EDU,Equity for Excellence in STEM,EES
+2110684,Terminated,2022,MA,699994,STEM Education,EDU,Undergraduate Education,DUE
+2111199,Terminated,2021,TX,599870,STEM Education,EDU,Undergraduate Education,DUE
+2113355,Reinstated,2021,CA,2414485,STEM Education,EDU,Equity for Excellence in STEM,EES
+2113506,Terminated,2021,RI,1500069,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2114241,Terminated,2021,FL,320642,Engineering,ENG,Engineering Education and Centers,EEC
+2114660,Terminated,2021,TN,304761,STEM Education,EDU,Graduate Education,DGE
+2115429,Reinstated,2021,CA,431338,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2115472,Terminated,2021,UT,1786397,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115522,Terminated,2021,MI,1137259,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115579,Terminated,2021,TX,1999995,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115620,Terminated,2021,WA,514162,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115669,Terminated,2021,NY,3093467,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115695,Terminated,2021,WA,1099555,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115712,Terminated,2022,WA,300000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115781,Terminated,2022,MN,376804,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115921,Terminated,2021,MA,1522057,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115963,Terminated,2021,IL,1386110,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2115971,Terminated,2021,RI,1696109,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2116116,Terminated,2021,HI,2419814,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2116118,Reinstated,2021,CA,2400000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2116350,Terminated,2021,CA,254788,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2116467,Terminated,2022,GA,510490,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2116473,Terminated,2022,CT,16739,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2116484,Terminated,2022,MS,70176,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2116538,Terminated,2022,NC,43972,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2116543,Terminated,2021,MA,604296,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2116679,Terminated,2021,MA,3499997,Mathematical and Physical Sciences,MPS,Physics,PHY
+2116702,Terminated,2022,MA,650766,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2116771,Terminated,2021,NC,346165,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2116799,Terminated,2021,KY,347149,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2117009,Terminated,2021,TN,450000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2117083,Terminated,2021,MA,24984,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2117694,Terminated,2021,PA,260944,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2119351,Terminated,2022,MA,457194,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2119850,Terminated,2021,NJ,294716,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2119866,Terminated,2021,MO,307462,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2119902,Terminated,2021,AL,10000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2120001,Reinstated,2021,CA,7071745,STEM Education,EDU,Equity for Excellence in STEM,EES
+2120006,Terminated,2021,VA,2499320,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2120021,Terminated,2021,AZ,9975397,STEM Education,EDU,Equity for Excellence in STEM,EES
+2120031,Terminated,2022,TX,419996,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2120035,Reinstated,2021,AZ,3067860,STEM Education,EDU,Equity for Excellence in STEM,EES
+2120039,Terminated,2022,TX,314904,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2120047,Terminated,2021,CA,204041,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2120098,Terminated,2022,CA,748437,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2120496,Terminated,2022,WA,2249918,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2120880,Terminated,2021,UT,321896,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2120881,Terminated,2021,NY,267321,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2121239,Terminated,2022,MA,114760,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2121455,Terminated,2022,TX,299960,STEM Education,EDU,Undergraduate Education,DUE
+2121468,Terminated,2021,DC,5803912,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121620,Terminated,2021,NY,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121648,Terminated,2021,TX,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121654,Terminated,2021,IL,972496,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121787,Reinstated,2022,CA,802538,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121797,Reinstated,2022,CA,444414,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121852,Terminated,2021,NC,256075,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2121853,Terminated,2021,MA,106311,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2121858,Terminated,2021,DC,210626,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121898,Terminated,2021,ID,227519,STEM Education,EDU,Graduate Education,DGE
+2121899,Terminated,2021,CA,781552,STEM Education,EDU,Equity for Excellence in STEM,EES
+2121980,Terminated,2022,CO,999312,STEM Education,EDU,Equity for Excellence in STEM,EES
+2122112,Terminated,2021,PA,628630,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2122212,Terminated,2021,NY,306932,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2122213,Terminated,2021,NC,202645,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2122367,Terminated,2021,PA,484199,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2122436,Terminated,2021,CA,999859,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2122553,Terminated,2021,NM,982345,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2122560,Terminated,2021,WA,496694,STEM Education,EDU,Equity for Excellence in STEM,EES
+2122567,Terminated,2021,CA,2999691,STEM Education,EDU,Equity for Excellence in STEM,EES
+2122640,Terminated,2021,TN,506478,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2122658,Terminated,2021,TX,999152,STEM Education,EDU,Equity for Excellence in STEM,EES
+2122673,Terminated,2022,OR,999968,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2122682,Terminated,2021,NY,266000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2122701,Terminated,2021,MA,499999,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2122825,Terminated,2021,TX,2887873,STEM Education,EDU,Equity for Excellence in STEM,EES
+2122857,Terminated,2022,CA,497399,STEM Education,EDU,Equity for Excellence in STEM,EES
+2122875,Terminated,2021,TX,2997279,STEM Education,EDU,Equity for Excellence in STEM,EES
+2122903,Terminated,2021,WI,598322,STEM Education,EDU,Equity for Excellence in STEM,EES
+2122917,Terminated,2022,TX,799904,STEM Education,EDU,Undergraduate Education,DUE
+2122940,Terminated,2021,CA,999968,STEM Education,EDU,Equity for Excellence in STEM,EES
+2123440,Terminated,2022,FL,1498319,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2123549,Terminated,2022,DC,1035641,Geosciences,GEO,Ocean Sciences,OCE
+2123618,Terminated,2021,IN,459210,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2123635,Terminated,2021,FL,1935238,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2123965,Terminated,2022,MA,350000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2124745,Terminated,2021,GA,398288,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2124838,Reinstated,2021,CA,395261,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2124994,Reinstated,2022,CA,353105,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2125288,Terminated,2022,TN,150000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2126030,Terminated,2022,OH,299947,STEM Education,EDU,Equity for Excellence in STEM,EES
+2126080,Terminated,2022,OK,3000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2126506,Reinstated,2022,CA,203155,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2127208,Terminated,2021,MA,110500,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2127228,Terminated,2021,FL,262687,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2127357,Terminated,2021,CA,200095,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2127359,Terminated,2021,GA,283420,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2127380,Terminated,2021,CA,351755,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2127882,Terminated,2021,MA,2000000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2127909,Terminated,2022,GA,273731,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2127910,Terminated,2022,AR,269860,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2127911,Terminated,2022,NC,243709,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2127913,Terminated,2022,GA,238500,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2128198,Terminated,2021,MS,571727,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2128203,Terminated,2021,OH,999899,STEM Education,EDU,Equity for Excellence in STEM,EES
+2128803,Terminated,2022,MI,1188386,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2128813,Terminated,2022,IL,70458,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2128991,Terminated,2022,WI,39013,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2129576,Terminated,2022,MA,334909,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2129580,Terminated,2022,MA,161588,Biological Sciences,BIO,Biological Infrastructure,DBI
+2131875,Terminated,2022,NM,369821,Engineering,ENG,Engineering Education and Centers,EEC
+2133963,Terminated,2022,IL,437446,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2133964,Terminated,2022,MI,78553,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2134136,Terminated,2021,IA,53487,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2134624,Terminated,2022,NM,1543276,Biological Sciences,BIO,Biological Infrastructure,DBI
+2135328,Terminated,2022,CO,159038,Engineering,ENG,Engineering Education and Centers,EEC
+2135329,Terminated,2022,NM,190725,Engineering,ENG,Engineering Education and Centers,EEC
+2135669,Terminated,2022,CO,399521,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2135767,Terminated,2021,OH,99806,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2136141,Terminated,2022,RI,209243,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2137338,Terminated,2022,PA,2237296,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2137393,Terminated,2022,FL,57000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2137410,Terminated,2022,DC,660422,Geosciences,GEO,Office of Polar Programs,OPP
+2137723,Terminated,2021,MA,2500000,Mathematical and Physical Sciences,MPS,Office of Strategic Initiatives,OSI
+2137928,Reinstated,2022,CA,313302,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2138047,Terminated,2021,PA,59891,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2138730,Terminated,2022,MO,1254869,Biological Sciences,BIO,Environmental Biology,DEB
+2139125,Terminated,2021,WI,40000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2140043,Terminated,2021,MA,1000000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2140246,Terminated,2022,DC,521763,STEM Education,EDU,Equity for Excellence in STEM,EES
+2140262,Terminated,2022,IL,274762,STEM Education,EDU,Equity for Excellence in STEM,EES
+2140601,Terminated,2022,CO,349985,Engineering,ENG,Engineering Education and Centers,EEC
+2140646,Terminated,2022,CA,691074,STEM Education,EDU,Undergraduate Education,DUE
+2140696,Terminated,2022,FL,1235496,STEM Education,EDU,Equity for Excellence in STEM,EES
+2140743,Terminated,2021,MA,50428430,STEM Education,EDU,Graduate Education,DGE
+2140867,Terminated,2022,NC,769149,STEM Education,EDU,Equity for Excellence in STEM,EES
+2140892,Terminated,2022,GA,825079,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2140902,Terminated,2022,GA,1484897,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2140903,Terminated,2022,DC,1346595,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2140904,Terminated,2022,TX,1633132,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2140905,Terminated,2022,NC,1471735,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2140922,Terminated,2022,CO,572686,STEM Education,EDU,Equity for Excellence in STEM,EES
+2140987,Terminated,2022,MD,581108,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2141289,Terminated,2022,TN,272286,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2141313,Terminated,2022,CO,302713,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2141326,Terminated,2022,DE,420931,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2141328,Terminated,2022,CO,88485,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2141345,Terminated,2022,FL,413000,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2141382,Terminated,2022,MA,329628,Geosciences,GEO,Earth Sciences,EAR
+2142657,Reinstated,2022,CA,500000,STEM Education,EDU,Undergraduate Education,DUE
+2142714,Terminated,2022,FL,1500000,STEM Education,EDU,Undergraduate Education,DUE
+2142739,Terminated,2022,WA,550436,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2143077,Terminated,2023,MA,598566,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2143173,Terminated,2022,FL,547447,Engineering,ENG,Engineering Education and Centers,EEC
+2143177,Terminated,2022,MA,890180,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2143343,Terminated,2022,MA,486467,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2143811,Terminated,2022,CO,474801,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2143867,Terminated,2022,OH,597223,Engineering,ENG,Engineering Education and Centers,EEC
+2144506,Terminated,2022,WI,1219621,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2144618,Terminated,2022,NC,1062034,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2144978,Terminated,2022,VA,663883,STEM Education,EDU,Graduate Education,DGE
+2145011,Terminated,2022,IL,683554,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2145105,Terminated,2022,DC,1595570,STEM Education,EDU,Equity for Excellence in STEM,EES
+2145925,Terminated,2022,MA,1012400,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2145961,Terminated,2022,FL,646092,Engineering,ENG,Engineering Education and Centers,EEC
+2146363,Terminated,2022,CO,749401,STEM Education,EDU,Equity for Excellence in STEM,EES
+2146448,Terminated,2023,TX,510000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2146613,Terminated,2022,MA,1500000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2146984,Terminated,2022,NJ,206682,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2147258,Terminated,2022,IA,111903,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2147284,Terminated,2022,NJ,302085,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2147305,Terminated,2022,CT,392994,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2147325,Terminated,2022,GA,84062,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2147450,Terminated,2022,TX,191062,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2147635,Terminated,2022,OK,300519,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2147694,Terminated,2022,MA,489462,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2147818,Reinstated,2022,CA,155725,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2147848,Terminated,2022,AZ,432912,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2148014,Terminated,2022,CA,786285,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2148016,Terminated,2022,AZ,431984,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2148023,Terminated,2022,MN,1448995,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2148202,Terminated,2022,IA,82608,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2148560,Terminated,2022,TX,739486,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2148561,Terminated,2022,MI,60439,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2148606,Terminated,2022,CT,1350000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2148704,Terminated,2022,RI,579183,Geosciences,GEO,Ocean Sciences,OCE
+2148705,Terminated,2022,GA,147021,Geosciences,GEO,Ocean Sciences,OCE
+2148739,Terminated,2022,IN,394861,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2148920,Terminated,2022,DC,398317,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2148928,Terminated,2022,MA,155357,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2148971,Terminated,2023,DC,400000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2149053,Terminated,2022,MN,407554,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2149059,Terminated,2022,FL,268939,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2149223,Terminated,2022,CT,238600,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2149321,Terminated,2022,TX,29850,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2149849,Terminated,2022,MA,1532212,STEM Education,EDU,Equity for Excellence in STEM,EES
+2149858,Terminated,2022,MA,692293,STEM Education,EDU,Equity for Excellence in STEM,EES
+2149883,Terminated,2022,MA,672912,STEM Education,EDU,Equity for Excellence in STEM,EES
+2149899,Terminated,2022,NY,797220,STEM Education,EDU,Equity for Excellence in STEM,EES
+2150045,Terminated,2022,CO,999167,STEM Education,EDU,Equity for Excellence in STEM,EES
+2150057,Terminated,2022,TX,199905,STEM Education,EDU,Equity for Excellence in STEM,EES
+2150103,Terminated,2022,NM,995713,STEM Education,EDU,Equity for Excellence in STEM,EES
+2150290,Terminated,2022,MA,523416,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2150298,Terminated,2022,CA,999504,STEM Education,EDU,Equity for Excellence in STEM,EES
+2150364,Terminated,2022,MA,348540,STEM Education,EDU,Undergraduate Education,DUE
+2150415,Terminated,2022,TX,402511,Engineering,ENG,Engineering Education and Centers,EEC
+2150423,Terminated,2022,NY,199982,STEM Education,EDU,Equity for Excellence in STEM,EES
+2150454,Terminated,2022,CA,199751,STEM Education,EDU,Equity for Excellence in STEM,EES
+2150680,Terminated,2024,UT,23489,STEM Education,EDU,Undergraduate Education,DUE
+2150716,Reinstated,2022,CA,285000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2150723,Reinstated,2022,GA,214999,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2150727,Terminated,2024,MI,21741,STEM Education,EDU,Undergraduate Education,DUE
+2150787,Terminated,2022,WA,1450000,STEM Education,EDU,Undergraduate Education,DUE
+2150813,Terminated,2022,MA,261102,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2151061,Terminated,2022,FL,1449928,STEM Education,EDU,Undergraduate Education,DUE
+2151294,Terminated,2022,MA,665188,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2151311,Terminated,2022,MN,407450,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2151404,Terminated,2022,TX,579399,Engineering,ENG,Engineering Education and Centers,EEC
+2152149,Terminated,2022,MA,203163,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2152437,Terminated,2022,KS,408187,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2152456,Terminated,2022,VA,350000,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2152524,Terminated,2022,MI,257454,STEM Education,EDU,Equity for Excellence in STEM,EES
+2152834,Terminated,2022,PA,499536,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2152991,Terminated,2022,MA,440000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2153335,Terminated,2022,MA,330000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2154118,Terminated,2022,GA,428000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2154119,Terminated,2022,NY,396000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2154245,Terminated,2022,MA,809585,Biological Sciences,BIO,Environmental Biology,DEB
+2200066,Terminated,2022,PA,999894,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2200323,Terminated,2022,CA,299949,STEM Education,EDU,Equity for Excellence in STEM,EES
+2200447,Terminated,2022,GA,287605,STEM Education,EDU,Equity for Excellence in STEM,EES
+2200449,Terminated,2022,MA,400000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2200648,Terminated,2022,NC,443186,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2200706,Terminated,2022,CO,588403,STEM Education,EDU,Equity for Excellence in STEM,EES
+2200748,Terminated,2022,HI,309998,STEM Education,EDU,Equity for Excellence in STEM,EES
+2200753,Terminated,2022,WA,2933530,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2200981,Terminated,2022,MA,162012,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2201100,Reinstated,2022,NC,214783,STEM Education,EDU,Graduate Education,DGE
+2201102,Terminated,2022,OH,582636,STEM Education,EDU,Graduate Education,DGE
+2201545,Terminated,2022,WI,675271,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2201576,Terminated,2022,TX,259739,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2201623,Terminated,2022,MD,551881,STEM Education,EDU,Equity for Excellence in STEM,EES
+2201701,Terminated,2022,GA,232154,STEM Education,EDU,Equity for Excellence in STEM,EES
+2201798,Terminated,2022,PA,213887,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2201799,Terminated,2022,MA,87001,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2201800,Terminated,2022,PA,78960,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2201810,Terminated,2022,CO,313026,STEM Education,EDU,Equity for Excellence in STEM,EES
+2201904,Terminated,2022,MD,3997959,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2201928,Reinstated,2023,TX,1298725,STEM Education,EDU,Undergraduate Education,DUE
+2201929,Terminated,2022,WA,526070,STEM Education,EDU,Undergraduate Education,DUE
+2201930,Terminated,2022,WA,471586,STEM Education,EDU,Undergraduate Education,DUE
+2201943,Terminated,2022,AZ,1593178,STEM Education,EDU,Equity for Excellence in STEM,EES
+2202109,Terminated,2022,KY,347382,STEM Education,EDU,Undergraduate Education,DUE
+2202113,Terminated,2022,MA,1254206,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2202698,Terminated,2022,MA,68389,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2202772,Terminated,2022,MA,313105,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2202984,Terminated,2022,MA,539063,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2203422,Terminated,2022,IL,300000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2203621,Terminated,2022,MA,800000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2204099,Terminated,2022,CO,136406,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204125,Terminated,2022,DC,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204462,Terminated,2022,FL,999853,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204529,Terminated,2022,CA,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204538,Terminated,2022,WA,999784,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204550,Reinstated,2022,NY,763337,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204552,Terminated,2022,FL,250000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204558,Terminated,2022,NY,999839,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204570,Terminated,2022,NC,1075000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204630,Terminated,2022,CO,1074365,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204703,Terminated,2022,VA,1075000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204741,Terminated,2022,LA,1075000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204743,Terminated,2022,FL,1075000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204746,Terminated,2022,MA,1074840,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204750,Terminated,2022,TX,1075000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2204838,Terminated,2022,AL,199937,STEM Education,EDU,Equity for Excellence in STEM,EES
+2205573,Terminated,2022,MD,349707,STEM Education,EDU,Equity for Excellence in STEM,EES
+2205575,Terminated,2022,GA,349270,STEM Education,EDU,Equity for Excellence in STEM,EES
+2206057,Terminated,2023,VA,1599997,Biological Sciences,BIO,Environmental Biology,DEB
+2206110,Terminated,2022,MA,468687,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2206125,Terminated,2022,TX,273404,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2206181,Terminated,2022,TX,46568,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2207119,Terminated,2022,MA,238111,Geosciences,GEO,Earth Sciences,EAR
+2207241,Terminated,2023,TX,1478965,STEM Education,EDU,Equity for Excellence in STEM,EES
+2207348,Terminated,2023,CT,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2207352,Terminated,2023,NY,2499968,STEM Education,EDU,Equity for Excellence in STEM,EES
+2207368,Terminated,2022,GA,2499998,STEM Education,EDU,Equity for Excellence in STEM,EES
+2207398,Terminated,2023,AZ,2500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2207401,Terminated,2022,HI,1499925,STEM Education,EDU,Equity for Excellence in STEM,EES
+2207659,Terminated,2022,MA,403935,Mathematical and Physical Sciences,MPS,Physics,PHY
+2207773,Terminated,2022,DC,869390,STEM Education,EDU,Equity for Excellence in STEM,EES
+2207972,Terminated,2022,MA,300000,Mathematical and Physical Sciences,MPS,Physics,PHY
+2208152,Terminated,2022,CT,109940,Biological Sciences,ENG,Office of Emerging Frontiers in Research and Innovation,EFMA
+2208797,Terminated,2022,MA,1601827,STEM Education,EDU,Graduate Education,DGE
+2209623,Terminated,2022,MA,402107,Computer and Information Science and Engineering,CSE,Office of Advanced Cyberinfrastructure,OAC
+2209643,Terminated,2022,DC,99549,Biological Sciences,BIO,Environmental Biology,DEB
+2210011,Terminated,2022,MD,331839,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2210023,Terminated,2022,DC,299768,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2210137,Terminated,2022,AZ,300000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2210142,Terminated,2022,PA,296325,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2210173,Terminated,2022,MA,578882,Geosciences,GEO,Office of Polar Programs,OPP
+2210757,Terminated,2022,MA,396217,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2210841,Terminated,2023,MI,846131,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2210843,Terminated,2023,NJ,61560,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2210844,Terminated,2023,IL,200611,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2211383,Terminated,2023,MA,240000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2212146,Terminated,2022,MI,666555,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2212690,Terminated,2023,OH,249303,Engineering,ENG,Engineering Education and Centers,EEC
+2212807,Terminated,2022,MD,2922997,STEM Education,EDU,Undergraduate Education,DUE
+2213870,Terminated,2022,CO,254374,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2214011,Terminated,2022,HI,245626,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2214216,Reinstated,2022,NY,336644,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2214217,Reinstated,2022,NY,328068,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2214387,Terminated,2022,GA,135695,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2214455,Terminated,2022,MI,164421,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2214482,Terminated,2022,CA,143958,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2214740,Terminated,2022,SC,1916958,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2215050,Terminated,2022,MA,950262,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2215153,Terminated,2022,IN,499819,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2215236,Reinstated,2022,CA,500000,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2215554,Terminated,2023,HI,2584633,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2215613,Terminated,2022,CA,2000000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2215696,Reinstated,2022,CA,250134,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2216066,Terminated,2022,MA,300735,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2216268,Terminated,2023,UT,297407,STEM Education,EDU,Undergraduate Education,DUE
+2216286,Terminated,2022,IN,238327,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2216540,Terminated,2023,PA,296804,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2216561,Terminated,2023,CO,3645298,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2216704,Terminated,2022,AZ,2998230,Biological Sciences,BIO,Biological Infrastructure,DBI
+2216721,Terminated,2023,CA,2982873,Biological Sciences,BIO,Biological Infrastructure,DBI
+2216872,Terminated,2023,GA,300000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2217227,Terminated,2022,TX,1500002,STEM Education,EDU,Equity for Excellence in STEM,EES
+2217242,Terminated,2022,HI,8462013,STEM Education,EDU,Equity for Excellence in STEM,EES
+2217477,Terminated,2022,FL,799994,Engineering,ENG,Engineering Education and Centers,EEC
+2217545,Terminated,2023,MI,1199904,Engineering,ENG,Engineering Education and Centers,EEC
+2217680,Terminated,2023,MA,249681,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2217681,Terminated,2022,ID,99808,Engineering,ENG,Engineering Education and Centers,EEC
+2217703,Terminated,2023,MS,159865,Engineering,ENG,Engineering Education and Centers,EEC
+2217706,Terminated,2023,AZ,748809,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2217708,Terminated,2023,NC,165305,Engineering,ENG,Engineering Education and Centers,EEC
+2217718,Terminated,2023,MD,430000,Engineering,ENG,Engineering Education and Centers,EEC
+2217722,Terminated,2022,MA,250000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2217732,Terminated,2023,CA,50000,Engineering,ENG,Engineering Education and Centers,EEC
+2217741,Terminated,2022,TX,1193572,Engineering,ENG,Engineering Education and Centers,EEC
+2217745,Terminated,2022,GA,799882,Engineering,ENG,Engineering Education and Centers,EEC
+2217770,Terminated,2023,MA,672287,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2217780,Terminated,2023,TX,1199998,Engineering,ENG,Engineering Education and Centers,EEC
+2218100,Terminated,2022,FL,255134,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2218101,Terminated,2022,FL,219800,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2218427,Terminated,2022,MA,633223,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2218460,Terminated,2022,MA,217224,Geosciences,GEO,Earth Sciences,EAR
+2218504,Terminated,2022,CO,128930,Geosciences,GEO,Earth Sciences,EAR
+2218544,Terminated,2022,AZ,1827627,Geosciences,GEO,Earth Sciences,EAR
+2218547,Terminated,2022,CO,528702,Geosciences,GEO,Earth Sciences,EAR
+2218553,Terminated,2022,NY,465888,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2218803,Terminated,2022,MA,872400,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2218904,Terminated,2022,WA,419774,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2219069,Terminated,2022,MA,299883,Geosciences,GEO,Earth Sciences,EAR
+2219389,Terminated,2022,NY,558650,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2219604,Terminated,2022,WI,576061,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2220322,Terminated,2022,PA,1196064,Mathematical and Physical Sciences,MPS,Office of Strategic Initiatives,OSI
+2220446,Terminated,2022,MA,2530198,Geosciences,GEO,Office of Polar Programs,OPP
+2220535,Terminated,2023,AL,171258,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2220536,Terminated,2023,NC,147018,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2220631,Reinstated,2023,CA,399994,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2220703,Terminated,2022,MA,560000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2220724,Reinstated,2023,CA,373108,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2220747,Terminated,2022,MA,1700000,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2221556,Terminated,2023,NY,1489993,STEM Education,EDU,Undergraduate Education,DUE
+2221587,Terminated,2023,PA,1496929,STEM Education,EDU,Undergraduate Education,DUE
+2221715,Terminated,2022,MA,360000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2221894,Terminated,2023,TX,158068,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2221922,Terminated,2023,IN,95327,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2221994,Terminated,2023,CA,157291,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2221996,Terminated,2023,TX,208818,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2222018,Terminated,2022,AZ,1250671,STEM Education,EDU,Graduate Education,DGE
+2222147,Terminated,2022,NY,128764,STEM Education,EDU,Graduate Education,DGE
+2222278,Reinstated,2023,CA,300000,STEM Education,EDU,Graduate Education,DGE
+2222427,Terminated,2022,GA,231736,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2222452,Terminated,2022,NY,221000,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2222453,Terminated,2022,IN,241615,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2222847,Terminated,2023,LA,1185499,Engineering,ENG,Engineering Education and Centers,EEC
+2223880,Terminated,2022,MA,232968,Biological Sciences,BIO,Biological Infrastructure,DBI
+2224247,Terminated,2023,MA,969616,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2224296,Terminated,2023,CA,1403600,STEM Education,EDU,Equity for Excellence in STEM,EES
+2224509,Terminated,2023,VA,1230157,STEM Education,EDU,Graduate Education,DGE
+2224565,Terminated,2023,NC,458000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2224571,Terminated,2023,WA,1769671,STEM Education,EDU,Graduate Education,DGE
+2224594,Terminated,2023,WA,1106513,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2224595,Terminated,2023,MA,666618,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2224615,Terminated,2023,NY,1300000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2224946,Terminated,2022,MI,300259,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225180,Terminated,2022,FL,599827,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225199,Terminated,2023,TX,3000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225208,Terminated,2023,FL,500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225238,Reinstated,2022,CA,3000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225246,Terminated,2023,TX,525610,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225247,Terminated,2022,TX,499998,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225314,Terminated,2022,VA,336869,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225362,Terminated,2022,MD,998969,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2225399,Terminated,2022,NM,350000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225542,Terminated,2022,TX,181800,STEM Education,EDU,Equity for Excellence in STEM,EES
+2225832,Terminated,2022,AL,998656,Office Of The Director,O/D,Office of Integrative Activities,OIA
+2226087,Terminated,2023,CA,500000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2226708,Terminated,2022,TX,297876,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2227624,Terminated,2022,TX,21950,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2227705,Reinstated,2022,CA,50000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2227918,Reinstated,2023,CA,128127,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2227964,Terminated,2023,MA,326200,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2228064,Terminated,2023,AK,300000,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2228135,Reinstated,2023,CA,81304,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2228162,Reinstated,2023,CA,89482,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2228198,Reinstated,2023,CA,7490708,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2228205,Terminated,2023,TX,7057285,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2228359,Terminated,2023,MA,718313,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2229008,Terminated,2023,TX,299975,STEM Education,EDU,Equity for Excellence in STEM,EES
+2230083,Terminated,2022,OH,199786,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2230494,Terminated,2022,NY,5000000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2230615,Terminated,2023,PA,1485510,Office Of The Director,O/D,Office of International Science and Engineering,OISE
+2230616,Terminated,2023,WA,5000000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2230692,Terminated,2022,WI,5000000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2230723,Terminated,2023,MA,1499365,Office Of The Director,O/D,Office of International Science and Engineering,OISE
+2230887,Terminated,2022,LA,197022,Biological Sciences,BIO,Environmental Biology,DEB
+2231202,Terminated,2022,FL,49906,Geosciences,GEO,Ocean Sciences,OCE
+2231707,Terminated,2023,MA,250000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2231729,Terminated,2022,LA,483302,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2231959,Terminated,2022,AZ,181501,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2233205,Terminated,2022,CO,100000,Biological Sciences,BIO,Biological Infrastructure,DBI
+2233342,Terminated,2023,NE,211435,Biological Sciences,BIO,Biological Infrastructure,DBI
+2233343,Terminated,2023,VA,288563,Biological Sciences,BIO,Biological Infrastructure,DBI
+2233509,Terminated,2023,DC,499985,Biological Sciences,BIO,Biological Infrastructure,DBI
+2233702,Terminated,2023,CA,31867,Biological Sciences,BIO,Biological Infrastructure,DBI
+2233703,Terminated,2023,MS,12121,Biological Sciences,BIO,Biological Infrastructure,DBI
+2233707,Terminated,2023,WA,1997452,Biological Sciences,BIO,Biological Infrastructure,DBI
+2233788,Terminated,2023,NY,88281,Biological Sciences,BIO,Biological Infrastructure,DBI
+2233789,Terminated,2023,SC,584724,Biological Sciences,BIO,Biological Infrastructure,DBI
+2233790,Terminated,2023,WI,122673,Biological Sciences,BIO,Biological Infrastructure,DBI
+2234308,Terminated,2023,MA,342550,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2234351,Terminated,2023,DC,161159,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2234510,Terminated,2023,PA,409197,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2234708,Terminated,2023,GA,99791,Engineering,ENG,Engineering Education and Centers,EEC
+2235579,Terminated,2024,FL,581978,STEM Education,EDU,Undergraduate Education,DUE
+2236596,Terminated,2023,TX,529578,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2236618,Terminated,2023,WA,612842,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2236814,Terminated,2023,AR,199974,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2237151,Terminated,2023,VA,831028,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2237564,Terminated,2023,FL,612735,Engineering,ENG,Engineering Education and Centers,EEC
+2237580,Terminated,2023,MA,600527,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2237739,Terminated,2023,MI,629023,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2237867,Terminated,2023,TX,563407,Engineering,ENG,Engineering Education and Centers,EEC
+2238071,Terminated,2023,MA,1361007,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2238113,Terminated,2023,MA,822963,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2238389,Terminated,2023,FL,607272,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2238410,Terminated,2023,MI,599520,Engineering,ENG,Engineering Education and Centers,EEC
+2238446,Terminated,2023,MI,1304393,STEM Education,EDU,Equity for Excellence in STEM,EES
+2238714,Terminated,2023,MA,550664,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2238836,Terminated,2023,MA,494000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2239021,Terminated,2023,GA,607995,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2239067,Reinstated,2023,CA,699480,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2239234,Terminated,2023,MA,434135,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2239242,Terminated,2023,MA,946343,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2239348,Terminated,2023,MA,606720,Engineering,ENG,Engineering Education and Centers,EEC
+2239780,Terminated,2024,MA,602466,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2239795,Terminated,2023,MA,870025,Mathematical and Physical Sciences,MPS,Physics,PHY
+2239824,Terminated,2023,MA,531915,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2239879,Terminated,2023,GA,607835,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2240327,Terminated,2023,AL,204324,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2240535,Reinstated,2023,MA,239553,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2240660,Terminated,2023,CO,436156,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2240900,Terminated,2023,NY,15070,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2241068,Reinstated,2023,IL,224033,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2241069,Reinstated,2023,CA,155967,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2241521,Terminated,2023,MA,201410,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2241522,Terminated,2023,MS,103735,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2241596,Reinstated,2023,CA,499801,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2241828,Terminated,2024,CO,20672,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2241885,Terminated,2023,MA,332169,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2242057,Terminated,2023,NJ,497624,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2242643,Terminated,2024,LA,363852,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2242654,Terminated,2023,NV,996249,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2243017,Terminated,2023,TX,1834369,STEM Education,EDU,Equity for Excellence in STEM,EES
+2243018,Terminated,2023,TX,601982,STEM Education,EDU,Equity for Excellence in STEM,EES
+2243020,Terminated,2023,TX,302697,STEM Education,EDU,Equity for Excellence in STEM,EES
+2243041,Terminated,2023,NJ,360000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2243105,Terminated,2023,RI,1420138,STEM Education,EDU,Equity for Excellence in STEM,EES
+2243106,Terminated,2023,MD,650000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2243107,Terminated,2023,CT,658363,STEM Education,EDU,Equity for Excellence in STEM,EES
+2243108,Terminated,2023,NY,579701,STEM Education,EDU,Equity for Excellence in STEM,EES
+2243466,Terminated,2024,NY,1499867,STEM Education,EDU,Undergraduate Education,DUE
+2243704,Terminated,2023,MA,932563,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2243724,Terminated,2023,MA,700000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2243733,Terminated,2023,OK,164796,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2243905,Terminated,2023,TN,148020,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2243906,Terminated,2023,TX,251981,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2243912,Terminated,2023,DC,230198,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2243983,Terminated,2023,NY,400000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2244144,Terminated,2023,PA,410216,Engineering,ENG,Engineering Education and Centers,EEC
+2244231,Terminated,2023,TX,366046,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2244271,Terminated,2023,DC,458164,Computer and Information Science and Engineering,CSE,Office of Advanced Cyberinfrastructure,OAC
+2244380,Terminated,2023,FL,428885,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2244734,Terminated,2023,MO,311844,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2245181,Reinstated,2023,CA,79403,STEM Education,EDU,Equity for Excellence in STEM,EES
+2245246,Terminated,2023,MA,660000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2245648,Terminated,2024,NY,327850,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2246079,Terminated,2023,MA,1000000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2246599,Terminated,2023,NM,3000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2246630,Terminated,2023,MA,446934,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2246746,Terminated,2023,MA,163146,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2246957,Terminated,2023,VA,199996,STEM Education,EDU,Equity for Excellence in STEM,EES
+2247071,Terminated,2023,CO,37405,Engineering,ENG,Engineering Education and Centers,EEC
+2247494,Terminated,2023,MA,575000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2247530,Terminated,2023,TX,200000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2247636,Terminated,2023,MD,498271,STEM Education,EDU,Equity for Excellence in STEM,EES
+2247646,Terminated,2023,TX,199838,STEM Education,EDU,Equity for Excellence in STEM,EES
+2247670,Terminated,2023,CA,199991,STEM Education,EDU,Equity for Excellence in STEM,EES
+2247817,Terminated,2023,MA,361035,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2247858,Terminated,2023,IL,999891,STEM Education,EDU,Equity for Excellence in STEM,EES
+2247867,Terminated,2024,NY,674999,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2247868,Terminated,2024,MA,494291,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2247928,Terminated,2023,TX,2241892,STEM Education,EDU,Equity for Excellence in STEM,EES
+2300164,Terminated,2023,MI,905303,STEM Education,EDU,Equity for Excellence in STEM,EES
+2300165,Terminated,2023,TX,421070,STEM Education,EDU,Equity for Excellence in STEM,EES
+2300166,Terminated,2023,MI,1167737,STEM Education,EDU,Equity for Excellence in STEM,EES
+2300380,Terminated,2023,NY,1247565,STEM Education,EDU,Equity for Excellence in STEM,EES
+2300607,Terminated,2023,FL,1321338,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2300609,Terminated,2023,MD,249966,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2300927,Terminated,2024,CA,1202028,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2301114,Terminated,2023,KY,821018,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2301116,Terminated,2023,GA,329070,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2301180,Reinstated,2023,MA,1500000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2301196,Terminated,2023,NY,297281,STEM Education,EDU,Equity for Excellence in STEM,EES
+2301197,Terminated,2023,NJ,202680,STEM Education,EDU,Equity for Excellence in STEM,EES
+2301246,Terminated,2023,MA,216238,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2301247,Reinstated,2023,CA,1599724,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2301248,Reinstated,2023,MA,696850,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2301249,Reinstated,2023,MA,699960,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2302773,Terminated,2023,TX,654011,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2303486,Terminated,2023,MA,449535,Geosciences,GEO,Ocean Sciences,OCE
+2303585,Terminated,2023,MD,599100,STEM Education,EDU,Equity for Excellence in STEM,EES
+2303681,Terminated,2023,MA,1520000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2303732,Terminated,2023,IL,993878,STEM Education,EDU,Equity for Excellence in STEM,EES
+2303835,Terminated,2024,MA,1199994,Biological Sciences,BIO,Environmental Biology,DEB
+2303983,Terminated,2023,MA,396914,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2304093,Terminated,2023,NY,599994,STEM Education,EDU,Equity for Excellence in STEM,EES
+2304106,Terminated,2024,MD,599948,STEM Education,EDU,Equity for Excellence in STEM,EES
+2304691,Terminated,2023,HI,199997,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2304844,Terminated,2023,MD,273918,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2304877,Terminated,2023,MA,400000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2304933,Terminated,2023,CA,998406,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2305202,Terminated,2023,VA,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2305245,Terminated,2023,OH,246412,STEM Education,EDU,Equity for Excellence in STEM,EES
+2305257,Terminated,2023,MA,194865,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2305373,Terminated,2023,MA,550000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2305476,Reinstated,2023,FL,1507549,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2305519,Terminated,2023,MA,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2305546,Terminated,2023,MI,990183,STEM Education,EDU,Equity for Excellence in STEM,EES
+2305592,Terminated,2023,NC,1250000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2305598,Terminated,2024,MI,471774,STEM Education,EDU,Equity for Excellence in STEM,EES
+2305599,Terminated,2024,MI,401335,STEM Education,EDU,Equity for Excellence in STEM,EES
+2305600,Terminated,2024,OH,372098,STEM Education,EDU,Equity for Excellence in STEM,EES
+2305728,Terminated,2024,WA,240000,Biological Sciences,BIO,Biological Infrastructure,DBI
+2306104,Terminated,2024,FL,1075000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2306149,Terminated,2023,MA,389254,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2306150,Terminated,2023,GA,600397,Engineering,ENG,Engineering Education and Centers,EEC
+2306176,Terminated,2023,OH,198651,Engineering,ENG,Engineering Education and Centers,EEC
+2306216,Terminated,2023,MA,291459,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2306259,Terminated,2023,MD,200000,Engineering,ENG,Engineering Education and Centers,EEC
+2306262,Terminated,2023,FL,149989,Engineering,ENG,Engineering Education and Centers,EEC
+2306263,Terminated,2023,IL,50000,Engineering,ENG,Engineering Education and Centers,EEC
+2306341,Terminated,2023,TN,2250000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2306489,Terminated,2023,MS,2250000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2306625,Terminated,2023,TX,2249695,STEM Education,EDU,Equity for Excellence in STEM,EES
+2306658,Terminated,2023,NC,349112,STEM Education,EDU,Equity for Excellence in STEM,EES
+2306753,Terminated,2023,TX,1250000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2307307,Terminated,2024,PA,3448451,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308043,Terminated,2023,MA,537856,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2308272,Terminated,2024,MA,333652,Geosciences,GEO,Ocean Sciences,OCE
+2308500,Terminated,2023,IN,2500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308517,Terminated,2023,CO,1199988,Engineering,ENG,Engineering Education and Centers,EEC
+2308531,Terminated,2023,IL,800000,Engineering,ENG,Engineering Education and Centers,EEC
+2308532,Terminated,2023,MD,400000,Engineering,ENG,Engineering Education and Centers,EEC
+2308622,Terminated,2023,VA,295004,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308698,Terminated,2023,NY,2500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308706,Terminated,2023,DC,3000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308715,Terminated,2023,AL,2524467,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308724,Terminated,2023,MA,3000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308738,Terminated,2024,CT,3191733,STEM Education,EDU,Equity for Excellence in STEM,EES
+2308786,Terminated,2023,AK,2500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2309041,Terminated,2024,MA,1189997,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2309090,Terminated,2023,VA,2999086,STEM Education,EDU,Equity for Excellence in STEM,EES
+2309125,Terminated,2024,NC,1888348,STEM Education,EDU,Equity for Excellence in STEM,EES
+2309126,Terminated,2024,DC,1692061,STEM Education,EDU,Equity for Excellence in STEM,EES
+2309127,Terminated,2024,CA,2283963,STEM Education,EDU,Equity for Excellence in STEM,EES
+2309255,Terminated,2023,VA,98543,Engineering,ENG,Engineering Education and Centers,EEC
+2309309,Terminated,2024,CO,409435,Mathematical and Physical Sciences,MPS,Physics,PHY
+2309310,Terminated,2024,IL,24744,Mathematical and Physical Sciences,MPS,Physics,PHY
+2309311,Terminated,2024,MD,109704,Mathematical and Physical Sciences,MPS,Physics,PHY
+2310050,Terminated,2023,MA,100000,Mathematical and Physical Sciences,MPS,Physics,PHY
+2310470,Terminated,2023,OK,613947,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2310556,Terminated,2023,NE,273297,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2310557,Terminated,2023,AL,80498,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2310558,Terminated,2023,CT,210506,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2310698,Terminated,2023,MS,200000,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2310717,Terminated,2023,MA,300000,Mathematical and Physical Sciences,MPS,Physics,PHY
+2310908,Terminated,2023,MA,450001,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2310990,Terminated,2023,NM,1499998,STEM Education,EDU,Equity for Excellence in STEM,EES
+2310991,Terminated,2023,NY,1491248,STEM Education,EDU,Equity for Excellence in STEM,EES
+2311210,Terminated,2023,MN,800000,Engineering,ENG,Engineering Education and Centers,EEC
+2311385,Terminated,2023,TX,6999932,STEM Education,EDU,Equity for Excellence in STEM,EES
+2311996,Terminated,2023,MS,299416,STEM Education,EDU,Equity for Excellence in STEM,EES
+2312667,Terminated,2024,MA,425000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2313084,Terminated,2023,MA,450000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2313609,Terminated,2023,TX,199944,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2313765,Terminated,2024,IL,3000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2313849,Terminated,2023,TX,1164050,STEM Education,EDU,Equity for Excellence in STEM,EES
+2313936,Terminated,2023,MD,3498607,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2313979,Terminated,2024,CA,598218,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2313981,Terminated,2024,PA,593533,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2313994,Terminated,2023,OR,143166,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314061,Terminated,2024,MN,162123,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2314075,Reinstated,2024,CA,2149437,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314092,Terminated,2023,TX,236606,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314101,Terminated,2023,NY,249995,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314144,Terminated,2023,HI,2000000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314158,Terminated,2023,NY,924407,STEM Education,EDU,Equity for Excellence in STEM,EES
+2314179,Terminated,2024,WA,618465,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2314229,Terminated,2023,AZ,147758,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314238,Terminated,2023,UT,1124593,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314239,Terminated,2023,VA,3500000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314254,Terminated,2023,VA,158053,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2314260,Terminated,2024,NY,1982790,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314275,Terminated,2023,KS,1658126,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314307,Terminated,2023,OR,2098013,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2314433,Terminated,2023,MO,324762,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2314434,Terminated,2023,CA,57433,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2314435,Reinstated,2023,CA,37805,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2314519,Terminated,2023,CA,20782,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2314653,Terminated,2023,WA,31500,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2314693,Terminated,2023,IL,356972,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2314850,Terminated,2023,TX,28202,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2314892,Terminated,2024,GA,644642,STEM Education,EDU,Undergraduate Education,DUE
+2314893,Terminated,2024,AL,343789,STEM Education,EDU,Undergraduate Education,DUE
+2314894,Terminated,2024,TX,389377,STEM Education,EDU,Undergraduate Education,DUE
+2314915,Terminated,2023,VA,1200524,STEM Education,EDU,Graduate Education,DGE
+2314916,Terminated,2023,MA,327270,STEM Education,EDU,Graduate Education,DGE
+2314918,Terminated,2023,PA,399997,STEM Education,EDU,Graduate Education,DGE
+2314980,Terminated,2023,OH,31736,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2315023,Terminated,2023,VA,1095344,STEM Education,EDU,Graduate Education,DGE
+2315027,Terminated,2023,FL,425280,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2315029,Terminated,2023,PA,200000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2315041,Terminated,2024,AZ,3206383,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2315042,Terminated,2024,PA,1299715,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2315043,Terminated,2024,TX,493900,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2315124,Terminated,2023,TX,1591701,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2315148,Terminated,2024,MD,2499955,STEM Education,EDU,Equity for Excellence in STEM,EES
+2315178,Terminated,2023,IL,4521222,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2315277,Reinstated,2024,CA,4723028,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2315400,Terminated,2024,NE,121215,STEM Education,EDU,Undergraduate Education,DUE
+2315401,Terminated,2024,NC,198227,STEM Education,EDU,Undergraduate Education,DUE
+2315402,Terminated,2024,PA,79599,STEM Education,EDU,Undergraduate Education,DUE
+2315456,Terminated,2023,CA,25000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2315480,Terminated,2024,FL,319723,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2315488,Terminated,2023,MA,362153,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2315533,Terminated,2023,MA,283999,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2315875,Terminated,2023,NV,168700,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2316154,Terminated,2024,OH,89922,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2316852,Terminated,2023,NH,216126,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2317076,Terminated,2023,IL,49997,Engineering,ENG,Engineering Education and Centers,EEC
+2317250,Terminated,2023,LA,88870,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2317283,Terminated,2023,AZ,490426,STEM Education,EDU,Undergraduate Education,DUE
+2317284,Terminated,2023,VA,1146432,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2317569,Reinstated,2024,CA,215820,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2317571,Reinstated,2024,IL,182559,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2317572,Reinstated,2024,CA,126320,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2317573,Reinstated,2024,RI,255368,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2317713,Terminated,2023,IL,321699,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2317752,Terminated,2023,TX,929157,STEM Education,EDU,Equity for Excellence in STEM,EES
+2317753,Terminated,2023,AZ,62795,STEM Education,EDU,Equity for Excellence in STEM,EES
+2317971,Terminated,2024,IN,348722,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2318258,Terminated,2024,WA,51239,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2318259,Terminated,2024,WA,231554,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2318260,Terminated,2024,WA,35893,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2318261,Terminated,2024,WA,17802,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2318288,Terminated,2023,NM,500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2318293,Terminated,2024,PA,200000,STEM Education,EDU,Undergraduate Education,DUE
+2318301,Terminated,2023,NY,152838,STEM Education,EDU,Equity for Excellence in STEM,EES
+2318338,Terminated,2024,FL,500000,STEM Education,EDU,Undergraduate Education,DUE
+2318357,Terminated,2023,PA,49837,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2318513,Terminated,2024,VA,364409,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2318841,Terminated,2023,MN,247686,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2318843,Terminated,2024,NJ,272000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2318844,Terminated,2024,PA,207971,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2319512,Terminated,2023,LA,283730,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2319639,Terminated,2024,VA,2000000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2319989,Terminated,2024,UT,2995023,STEM Education,EDU,Equity for Excellence in STEM,EES
+2320265,Terminated,2023,MA,999420,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2320742,Terminated,2023,MA,256252,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2321195,Terminated,2024,IL,259579,STEM Education,EDU,Equity for Excellence in STEM,EES
+2321219,Terminated,2024,RI,369579,STEM Education,EDU,Undergraduate Education,DUE
+2321274,Terminated,2024,DE,350000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2321390,Terminated,2023,FL,409743,Engineering,ENG,Engineering Education and Centers,EEC
+2321391,Terminated,2023,KS,200041,Engineering,ENG,Engineering Education and Centers,EEC
+2321649,Terminated,2024,FL,529609,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2321651,Terminated,2023,MA,595184,Biological Sciences,BIO,Environmental Biology,DEB
+2321914,Terminated,2024,NC,999800,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2321946,Terminated,2024,MI,499721,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2322122,Terminated,2023,FL,349670,STEM Education,EDU,Equity for Excellence in STEM,EES
+2322329,Terminated,2024,PA,1000000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2322705,Terminated,2024,LA,999291,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2322915,Terminated,2023,UT,63481,STEM Education,EDU,Graduate Education,DGE
+2323102,Terminated,2024,MA,255786,Geosciences,GEO,Ocean Sciences,OCE
+2323131,Terminated,2023,VA,100000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2323794,Terminated,2024,FL,744000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2323795,Terminated,2024,NC,217000,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2323970,Terminated,2024,MA,1500000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2324183,Terminated,2023,MA,4403449,STEM Education,EDU,Equity for Excellence in STEM,EES
+2324616,Terminated,2023,NY,750000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2324657,Terminated,2023,CO,498705,Geosciences,GEO,Ocean Sciences,OCE
+2324696,Terminated,2023,MO,492494,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2324862,Terminated,2024,MA,500000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2324987,Terminated,2023,IN,450000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2325183,Terminated,2023,MO,193578,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2325476,Terminated,2024,NM,300000,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2325593,Terminated,2024,IA,499169,STEM Education,EDU,Graduate Education,DGE
+2325669,Terminated,2024,IL,232237,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2325683,Terminated,2024,OH,445606,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2326134,Terminated,2024,FL,985135,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2326605,Terminated,2024,MA,4030000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2326704,Terminated,2024,VA,200000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2326731,Terminated,2024,NC,4138511,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2326732,Terminated,2024,NC,2145946,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2326787,Terminated,2023,MA,1750000,Mathematical and Physical Sciences,MPS,Office of Strategic Initiatives,OSI
+2326811,Terminated,2023,NY,100000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2327055,Terminated,2023,VA,346557,STEM Education,EDU,Equity for Excellence in STEM,EES
+2327257,Terminated,2024,RI,328223,STEM Education,EDU,Graduate Education,DGE
+2327319,Terminated,2024,MA,192092,STEM Education,EDU,Graduate Education,DGE
+2327447,Terminated,2023,MA,338170,STEM Education,EDU,Graduate Education,DGE
+2327579,Terminated,2023,CA,299941,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2327593,Terminated,2024,MI,315325,Engineering,ENG,Engineering Education and Centers,EEC
+2327594,Terminated,2024,IL,84206,Engineering,ENG,Engineering Education and Centers,EEC
+2327599,Terminated,2023,MA,49900,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2328610,Terminated,2024,UT,1249277,STEM Education,EDU,Graduate Education,DGE
+2329394,Terminated,2023,NJ,581680,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2329425,Terminated,2024,DC,999904,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2330332,Terminated,2023,MD,196240,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2330886,Terminated,2024,MT,58000,Geosciences,GEO,Office of Polar Programs,OPP
+2330922,Terminated,2024,NY,1363945,Geosciences,GEO,Office of Polar Programs,OPP
+2330923,Terminated,2024,AK,214931,Geosciences,GEO,Office of Polar Programs,OPP
+2330924,Terminated,2024,CO,131932,Geosciences,GEO,Office of Polar Programs,OPP
+2330963,Terminated,2023,NC,349893,STEM Education,EDU,Equity for Excellence in STEM,EES
+2331010,Terminated,2024,CA,99985,Engineering,ENG,Engineering Education and Centers,EEC
+2331116,Terminated,2023,OR,99055,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2331195,Terminated,2023,NY,2109800,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2331216,Terminated,2024,OH,400000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2331217,Terminated,2024,NY,400000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2331228,Terminated,2023,MA,300000,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2331287,Terminated,2024,DC,1169896,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2331317,Terminated,2024,PA,299997,STEM Education,EDU,Equity for Excellence in STEM,EES
+2331458,Terminated,2024,IL,6000000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2331831,Terminated,2024,MA,800000,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2332102,Terminated,2023,WI,31800,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2332232,Terminated,2023,GA,365861,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2332263,Reinstated,2024,CA,325267,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2332539,Terminated,2023,MA,300000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2332592,Terminated,2023,MN,20000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2332668,Terminated,2024,MA,259284,Mathematical and Physical Sciences,MPS,Office of Strategic Initiatives,OSI
+2332699,Terminated,2024,FL,100000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2332964,Terminated,2024,GA,99821,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2333014,Terminated,2024,MA,639620,Biological Sciences,BIO,Biological Infrastructure,DBI
+2333261,Terminated,2024,CO,4255155,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2333262,Terminated,2024,TX,2665555,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2333270,Terminated,2023,TX,10000,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2333466,Terminated,2024,MA,299942,Mathematical and Physical Sciences,MPS,Physics,PHY
+2333494,Terminated,2023,CA,195825,Biological Sciences,BIO,Environmental Biology,DEB
+2333888,Terminated,2024,MA,735900,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2333904,Terminated,2024,MA,300000,Mathematical and Physical Sciences,MPS,Physics,PHY
+2333959,Terminated,2023,GA,1205086,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2333985,Terminated,2024,DC,280000,Geosciences,GEO,Ocean Sciences,OCE
+2334059,Terminated,2023,MI,50000,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2334272,Terminated,2024,GA,100000,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2334298,Terminated,2023,TN,100000,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2334313,Terminated,2024,OH,300000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2334340,Reinstated,2023,CA,99098,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2334406,Terminated,2024,DC,5422930,STEM Education,EDU,Equity for Excellence in STEM,EES
+2334638,Terminated,2023,CA,1905291,STEM Education,EDU,Equity for Excellence in STEM,EES
+2334679,Terminated,2024,MD,499568,Biological Sciences,BIO,Biological Infrastructure,DBI
+2334832,Terminated,2024,CA,494256,Biological Sciences,BIO,Biological Infrastructure,DBI
+2334882,Terminated,2024,MA,302687,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2334951,Terminated,2024,AL,1274120,Biological Sciences,BIO,Biological Infrastructure,DBI
+2334952,Terminated,2024,AZ,206492,Biological Sciences,BIO,Biological Infrastructure,DBI
+2334953,Terminated,2024,GA,138184,Biological Sciences,BIO,Biological Infrastructure,DBI
+2334954,Reinstated,2024,CA,81069,Biological Sciences,BIO,Biological Infrastructure,DBI
+2334955,Terminated,2024,FL,143926,Biological Sciences,BIO,Biological Infrastructure,DBI
+2334984,Terminated,2024,MA,499957,Biological Sciences,BIO,Biological Infrastructure,DBI
+2335206,Terminated,2024,NY,997734,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2335225,Terminated,2024,AR,1359303,Biological Sciences,BIO,Biological Infrastructure,DBI
+2335235,Terminated,2024,CA,443813,Biological Sciences,BIO,Biological Infrastructure,DBI
+2335236,Reinstated,2024,CA,29017,Biological Sciences,BIO,Biological Infrastructure,DBI
+2335532,Terminated,2024,FL,947862,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2336044,Terminated,2024,MA,887605,Geosciences,GEO,Earth Sciences,EAR
+2336484,Terminated,2024,DC,4662695,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2336572,Terminated,2024,OH,18760,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2336806,Terminated,2024,MO,500000,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2336815,Terminated,2024,MO,252977,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2337064,Terminated,2024,MI,555943,STEM Education,EDU,Undergraduate Education,DUE
+2337516,Terminated,2024,MA,42250,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2338206,Terminated,2024,MA,770000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2338760,Terminated,2024,MA,450000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2339090,Reinstated,2024,CA,1773794,STEM Education,EDU,Equity for Excellence in STEM,EES
+2339286,Terminated,2024,GA,1044304,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2339462,Terminated,2024,IL,510000,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2339524,Terminated,2024,MA,566128,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2339619,Terminated,2024,NC,650000,Engineering,ENG,Engineering Education and Centers,EEC
+2339621,Terminated,2024,MA,1198253,Biological Sciences,BIO,Environmental Biology,DEB
+2339913,Terminated,2024,MA,786598,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2340108,Terminated,2024,MA,628039,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2340576,Terminated,2024,NC,1477252,STEM Education,EDU,Equity for Excellence in STEM,EES
+2341036,Terminated,2023,IL,1500000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2341434,Terminated,2024,NY,419917,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2341629,Terminated,2024,NY,21443,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2341739,Terminated,2024,AZ,311878,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2341785,Terminated,2024,MA,432782,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2341831,Terminated,2024,TN,238485,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2341874,Reinstated,2024,CA,320000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2341996,Terminated,2024,MO,149791,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2342547,Terminated,2024,CA,31950,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2342624,Terminated,2024,VA,434522,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342625,Terminated,2024,OH,302718,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342626,Terminated,2024,MI,254853,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342627,Terminated,2024,TN,305225,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342766,Terminated,2024,AL,1144433,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342767,Terminated,2024,OH,643191,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342768,Terminated,2024,AL,295924,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342769,Terminated,2024,MI,198981,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342770,Terminated,2024,MS,300563,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342771,Terminated,2024,MS,688243,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342772,Terminated,2024,OH,221702,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2342821,Terminated,2024,MA,61920,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2342842,Terminated,2024,PA,499271,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2343025,Terminated,2024,NE,301457,STEM Education,EDU,Equity for Excellence in STEM,EES
+2343111,Terminated,2024,TX,118007,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2343112,Terminated,2024,IL,96253,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2343113,Terminated,2024,WI,86291,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2343233,Terminated,2024,MA,227954,Geosciences,GEO,Earth Sciences,EAR
+2343235,Terminated,2024,TX,278818,STEM Education,EDU,Equity for Excellence in STEM,EES
+2343292,Reinstated,2024,CA,849995,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2343858,Reinstated,2024,CA,399932,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2343922,Terminated,2024,MA,462400,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2343939,Terminated,2023,TX,1263472,STEM Education,EDU,Equity for Excellence in STEM,EES
+2343966,Terminated,2024,CA,234038,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2343972,Terminated,2024,ND,499999,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2344929,Terminated,2024,MI,172051,STEM Education,EDU,Equity for Excellence in STEM,EES
+2345110,Terminated,2024,HI,1200000,STEM Education,EDU,Undergraduate Education,DUE
+2345121,Reinstated,2024,CA,999332,STEM Education,EDU,Undergraduate Education,DUE
+2345129,Terminated,2024,CT,999365,STEM Education,EDU,Undergraduate Education,DUE
+2345247,Terminated,2024,NY,200000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2345273,Terminated,2024,NY,499999,STEM Education,EDU,Equity for Excellence in STEM,EES
+2345334,Terminated,2024,NJ,800000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2345355,Terminated,2024,TX,797664,STEM Education,EDU,Equity for Excellence in STEM,EES
+2345356,Reinstated,2024,CA,271523,STEM Education,EDU,Equity for Excellence in STEM,EES
+2345357,Reinstated,2024,CA,723005,STEM Education,EDU,Equity for Excellence in STEM,EES
+2345361,Terminated,2024,TX,500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2345627,Terminated,2024,MA,30608,Biological Sciences,BIO,Environmental Biology,DEB
+2346137,Terminated,2024,MA,300000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2346173,Terminated,2024,MA,1500000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2346653,Terminated,2024,MN,204441,STEM Education,EDU,Undergraduate Education,DUE
+2346845,Terminated,2024,MA,599996,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2346906,Terminated,2024,AL,150000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2347034,Terminated,2024,LA,49430,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2347045,Terminated,2024,TX,300001,STEM Education,EDU,Equity for Excellence in STEM,EES
+2347046,Terminated,2024,MS,299972,STEM Education,EDU,Equity for Excellence in STEM,EES
+2347076,Terminated,2024,NY,993869,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2347101,Terminated,2024,VA,998332,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2347112,Terminated,2024,FL,999828,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2347276,Terminated,2024,VA,1000000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2347281,Terminated,2024,VA,1000000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2347361,Terminated,2024,OR,995075,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2347367,Terminated,2024,WA,932314,STEM Education,EDU,Equity for Excellence in STEM,EES
+2347423,Terminated,2024,MA,350000,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2347724,Terminated,2025,NY,828097,STEM Education,EDU,Equity for Excellence in STEM,EES
+2348210,Terminated,2024,CT,649205,STEM Education,EDU,Equity for Excellence in STEM,EES
+2348211,Terminated,2024,WI,374000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2348212,Terminated,2024,IL,260000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2348648,Terminated,2024,DC,1002436,STEM Education,EDU,Equity for Excellence in STEM,EES
+2348836,Reinstated,2024,AZ,297300,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2348924,Terminated,2024,MA,504194,Biological Sciences,BIO,Biological Infrastructure,DBI
+2348945,Terminated,2024,CO,362810,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2349282,Terminated,2024,MN,159222,Biological Sciences,BIO,Environmental Biology,DEB
+2349605,Terminated,2024,MO,417253,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2350008,Terminated,2024,NJ,99730,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2350382,Terminated,2024,NY,2251904,STEM Education,EDU,Equity for Excellence in STEM,EES
+2350410,Terminated,2024,CA,999295,STEM Education,EDU,Equity for Excellence in STEM,EES
+2400428,Terminated,2024,NC,450000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2400439,Terminated,2024,DC,449837,STEM Education,EDU,Equity for Excellence in STEM,EES
+2400824,Terminated,2025,MA,554945,STEM Education,EDU,Undergraduate Education,DUE
+2400839,Terminated,2024,NY,1839914,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2400895,Terminated,2024,NJ,599811,STEM Education,EDU,Undergraduate Education,DUE
+2401036,Terminated,2024,PA,999790,Engineering,ENG,"Chemical, Bioengineering, Environmental, and Transport Systems",CBET
+2401057,Terminated,2024,MA,1000000,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2401066,Terminated,2024,FL,334155,STEM Education,EDU,Equity for Excellence in STEM,EES
+2401278,Terminated,2024,WI,246894,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2401390,Terminated,2024,MA,300000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2401498,Terminated,2024,MA,335000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2401545,Terminated,2024,MA,490573,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2401907,Terminated,2025,MA,325497,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2402141,Terminated,2024,KY,50000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2402235,Terminated,2024,DC,648319,STEM Education,EDU,Equity for Excellence in STEM,EES
+2402247,Terminated,2024,CT,300000,Mathematical and Physical Sciences,MPS,Chemistry,CHE
+2402441,Terminated,2024,DE,1012381,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2402464,Terminated,2024,MA,395871,Geosciences,GEO,Earth Sciences,EAR
+2402468,Terminated,2024,TX,989117,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2403517,Terminated,2024,NY,42019,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2403523,Terminated,2024,NY,499997,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404263,Terminated,2024,CO,87067,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404264,Terminated,2024,DC,912722,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404468,Terminated,2024,WA,975049,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404512,Terminated,2024,OH,999977,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404537,Terminated,2024,TX,190425,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404538,Terminated,2024,CT,119690,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404550,Terminated,2024,IL,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404580,Terminated,2024,MO,954175,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404600,Terminated,2025,DC,1249999,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404640,Terminated,2024,TX,999809,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404653,Terminated,2024,KS,1000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404783,Terminated,2024,ID,1074957,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404859,Terminated,2025,MA,299848,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404955,Terminated,2024,AL,1075000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2404971,Reinstated,2024,CA,1075000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2405120,Reinstated,2024,CA,2999907,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2405747,Terminated,2024,TX,100000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2405868,Terminated,2025,SC,602701,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2406110,Terminated,2024,MA,436310,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2406112,Terminated,2024,DC,175000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2406575,Terminated,2024,MS,2500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2406905,Terminated,2024,MA,180000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2407056,Terminated,2024,NC,337943,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2407215,Terminated,2024,MA,522928,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2407374,Terminated,2024,FL,181785,Engineering,ENG,Engineering Education and Centers,EEC
+2407375,Terminated,2024,OH,18215,Engineering,ENG,Engineering Education and Centers,EEC
+2407727,Terminated,2024,MA,450000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2407922,Terminated,2024,MA,484024,Mathematical and Physical Sciences,MPS,Astronomical Sciences,AST
+2408749,Terminated,2024,NE,1199999,Engineering,ENG,Engineering Education and Centers,EEC
+2408960,Terminated,2024,MA,49500,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2408967,Terminated,2024,FL,749908,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2408969,Terminated,2024,NJ,1792744,STEM Education,EDU,Equity for Excellence in STEM,EES
+2408979,Terminated,2024,FL,1500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2409010,Terminated,2024,HI,2473651,STEM Education,EDU,Equity for Excellence in STEM,EES
+2409134,Terminated,2024,MN,2500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2409137,Reinstated,2025,CA,2500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2409150,Terminated,2024,KS,3500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2409182,Terminated,2024,IL,3500000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2409217,Terminated,2024,NM,1499998,STEM Education,EDU,Equity for Excellence in STEM,EES
+2409404,Terminated,2024,MA,700000,Mathematical and Physical Sciences,MPS,Physics,PHY
+2409521,Terminated,2024,LA,1452294,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2409522,Terminated,2024,MI,640770,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2409523,Terminated,2024,AZ,527716,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2409524,Terminated,2024,LA,167006,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2409713,Terminated,2024,MA,511970,Mathematical and Physical Sciences,MPS,Physics,PHY
+2409905,Terminated,2024,VA,570890,Engineering,ENG,Engineering Education and Centers,EEC
+2411594,Terminated,2024,GA,1111845,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411595,Terminated,2024,TX,419683,STEM Education,EDU,Undergraduate Education,DUE
+2411632,Terminated,2024,TX,14000,Mathematical and Physical Sciences,MPS,Physics,PHY
+2411640,Terminated,2024,CO,1214490,STEM Education,EDU,Equity for Excellence in STEM,EES
+2411641,Terminated,2024,CO,686631,STEM Education,EDU,Equity for Excellence in STEM,EES
+2411642,Terminated,2024,WV,447803,STEM Education,EDU,Equity for Excellence in STEM,EES
+2411643,Terminated,2024,CO,267929,STEM Education,EDU,Equity for Excellence in STEM,EES
+2411644,Terminated,2024,LA,127513,STEM Education,EDU,Equity for Excellence in STEM,EES
+2411678,Terminated,2024,TN,1510106,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411679,Terminated,2024,TN,659341,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411737,Reinstated,2024,CA,1801338,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411739,Reinstated,2024,VA,1194516,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411771,Terminated,2024,WA,604643,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411772,Terminated,2024,WA,312570,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411773,Terminated,2024,WA,468148,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411775,Terminated,2024,WA,357070,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411776,Terminated,2024,WA,275682,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2411882,Terminated,2025,MD,954434,STEM Education,EDU,Graduate Education,DGE
+2411883,Terminated,2025,MD,855720,STEM Education,EDU,Graduate Education,DGE
+2411884,Terminated,2025,MD,465621,STEM Education,EDU,Graduate Education,DGE
+2411933,Terminated,2024,FL,1952569,STEM Education,EDU,Equity for Excellence in STEM,EES
+2411934,Terminated,2024,NY,395127,STEM Education,EDU,Equity for Excellence in STEM,EES
+2411935,Terminated,2024,VA,1900257,STEM Education,EDU,Equity for Excellence in STEM,EES
+2411941,Reinstated,2024,CA,4500000,STEM Education,EDU,Graduate Education,DGE
+2411956,Reinstated,2025,TX,2484019,STEM Education,EDU,Undergraduate Education,DUE
+2411987,Terminated,2024,AZ,2993321,STEM Education,EDU,Graduate Education,DGE
+2411988,Terminated,2024,VA,2000024,STEM Education,EDU,Graduate Education,DGE
+2411999,Terminated,2024,CA,3730850,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2412193,Terminated,2024,NM,1200000,Engineering,ENG,Engineering Education and Centers,EEC
+2412346,Terminated,2024,MA,45000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2412719,Terminated,2024,MI,99509,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2412776,Terminated,2024,NY,500000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2412783,Terminated,2024,MA,549701,Mathematical and Physical Sciences,MPS,Physics,PHY
+2413185,Terminated,2024,NY,530002,STEM Education,EDU,Undergraduate Education,DUE
+2413236,Reinstated,2024,CA,199995,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2414042,Terminated,2024,WA,346910,Engineering,ENG,Engineering Education and Centers,EEC
+2414497,Reinstated,2024,RI,10000,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2414503,Terminated,2024,NC,503794,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415333,Terminated,2025,NY,3269924,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415398,Terminated,2024,IL,733043,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415399,Terminated,2024,IL,787042,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415563,Terminated,2024,RI,149433,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415575,Terminated,2024,VA,1672045,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415686,Terminated,2025,NY,179889,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415767,Terminated,2024,WI,1957470,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415812,Terminated,2025,VA,1708079,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415840,Terminated,2024,NY,1994610,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415857,Terminated,2024,MO,149636,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415883,Reinstated,2024,MI,619404,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415904,Terminated,2024,VA,149403,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415965,Terminated,2024,AZ,1730730,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2415989,Terminated,2024,CA,149588,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2416022,Terminated,2025,MA,31185,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2416024,Terminated,2025,WA,16922,STEM Education,EDU,Equity for Excellence in STEM,EES
+2416344,Terminated,2024,NY,525070,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2416484,Terminated,2024,MI,174864,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2416516,Terminated,2025,WI,115189,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2416517,Reinstated,2025,CA,127124,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2416518,Terminated,2025,IA,207685,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2416656,Terminated,2024,OK,124434,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2416708,Terminated,2024,NJ,10000,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2416797,Terminated,2024,PA,29700,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2416816,Terminated,2024,NJ,423417,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2417148,Terminated,2025,CO,5999812,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2417150,Terminated,2024,MA,55346,STEM Education,EDU,Undergraduate Education,DUE
+2417241,Terminated,2025,MA,690003,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417559,Reinstated,2024,CA,472000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417604,Terminated,2024,PA,29533,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417666,Terminated,2025,IL,5657363,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2417749,Terminated,2024,TX,219315,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417751,Terminated,2024,TX,204082,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417752,Terminated,2024,TX,136402,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417753,Terminated,2024,TX,112765,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417765,Terminated,2024,IN,49786,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417787,Reinstated,2024,CA,300000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2417796,Terminated,2024,FL,299659,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2417813,Terminated,2024,MN,122717,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417821,Terminated,2024,NY,62722,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417833,Terminated,2025,GA,3749996,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2417878,Terminated,2024,NY,243419,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417879,Terminated,2024,TX,253449,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2417948,Terminated,2024,CA,300704,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2417979,Terminated,2024,IL,290974,STEM Education,EDU,Equity for Excellence in STEM,EES
+2418043,Reinstated,2024,DC,368822,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2418216,Terminated,2024,NJ,74948,Biological Sciences,BIO,Biological Infrastructure,DBI
+2418858,Terminated,2024,NE,52166,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2418921,Terminated,2024,NJ,400000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2419014,Terminated,2024,ID,399199,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2419365,Terminated,2024,NJ,599485,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2419461,Terminated,2024,RI,77139,STEM Education,EDU,Equity for Excellence in STEM,EES
+2419500,Terminated,2024,NC,149746,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2419970,Terminated,2025,ND,450000,Office Of The Director,O/D,Office of International Science and Engineering,OISE
+2419971,Terminated,2025,DC,199448,Geosciences,GEO,Office of Polar Programs,OPP
+2420069,Reinstated,2024,CA,425444,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2420344,Terminated,2024,TX,1513258,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2420364,Reinstated,2024,CA,225439,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2420601,Terminated,2024,CA,274727,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2420678,Terminated,2024,GA,92377,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2420721,Terminated,2024,IL,375000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2420868,Terminated,2024,NY,549983,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2420981,Terminated,2024,IN,199995,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2420982,Terminated,2024,IL,200000,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2421119,Terminated,2025,MA,334824,Biological Sciences,BIO,Integrative Organismal Systems,IOS
+2421155,Terminated,2024,TX,499865,STEM Education,EDU,Equity for Excellence in STEM,EES
+2421242,Terminated,2025,NY,199970,STEM Education,EDU,Equity for Excellence in STEM,EES
+2421373,Terminated,2024,MA,99403,Geosciences,GEO,Office of Polar Programs,OPP
+2421405,Terminated,2024,AZ,499906,STEM Education,EDU,Equity for Excellence in STEM,EES
+2421409,Terminated,2024,DC,300619,Engineering,ENG,Engineering Education and Centers,EEC
+2421410,Terminated,2024,TX,99108,Engineering,ENG,Engineering Education and Centers,EEC
+2421426,Terminated,2024,CA,799997,STEM Education,EDU,Equity for Excellence in STEM,EES
+2421459,Terminated,2024,PA,15000,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2421461,Terminated,2025,MA,2972873,Biological Sciences,ENG,Office of Emerging Frontiers in Research and Innovation,EFMA
+2422010,Terminated,2024,GA,179171,Engineering,ENG,Engineering Education and Centers,EEC
+2422305,Terminated,2024,RI,127883,Biological Sciences,BIO,Biological Infrastructure,DBI
+2422348,Terminated,2024,MA,2000000,Biological Sciences,ENG,Office of Emerging Frontiers in Research and Innovation,EFMA
+2422551,Terminated,2024,MD,350000,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2422606,Terminated,2024,GA,1505031,STEM Education,EDU,Equity for Excellence in STEM,EES
+2423019,Terminated,2024,IL,422771,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2423277,Terminated,2024,NE,20000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2423785,Terminated,2024,AZ,399998,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2425714,Terminated,2024,MA,452604,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2425934,Terminated,2024,NM,494313,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2426105,Terminated,2024,MA,1100000,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2426145,Terminated,2024,MA,199479,Geosciences,GEO,Atmospheric and Geospace Sciences,AGS
+2426219,Terminated,2024,TN,23230,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2426448,Terminated,2024,MA,699527,Geosciences,GEO,Earth Sciences,EAR
+2426511,Terminated,2025,MO,3000000,STEM Education,EDU,Equity for Excellence in STEM,EES
+2426567,Terminated,2024,ID,27036,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2426669,Terminated,2024,DC,524987,Office Of The Director,O/D,Office of International Science and Engineering,OISE
+2426690,Terminated,2025,PA,25200,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2426972,Terminated,2024,IL,129100,STEM Education,EDU,Equity for Excellence in STEM,EES
+2426973,Terminated,2024,PA,129100,STEM Education,EDU,Equity for Excellence in STEM,EES
+2426981,Terminated,2025,IL,984495,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2427124,Terminated,2024,MA,549323,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2427291,Terminated,2024,MA,805625,Geosciences,GEO,Office of Polar Programs,OPP
+2427386,Terminated,2024,NC,299497,STEM Education,EDU,Equity for Excellence in STEM,EES
+2427457,Reinstated,2024,CA,711640,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2427533,Terminated,2025,MA,299993,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2427894,Terminated,2024,MN,199997,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2428058,Reinstated,2024,CA,100000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2428059,Reinstated,2024,MI,100000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2428232,Terminated,2024,AZ,30000,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2428802,Terminated,2024,NC,16800,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2429009,Terminated,2024,VA,424251,Office Of The Director,O/D,Office of International Science and Engineering,OISE
+2429010,Terminated,2024,PA,225625,Office Of The Director,O/D,Office of International Science and Engineering,OISE
+2429070,Terminated,2024,DC,24792,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2429071,Terminated,2024,FL,24833,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2429247,Terminated,2024,TX,49962,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2429337,Terminated,2025,CA,1051622,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2429338,Terminated,2025,IN,448129,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2429498,Terminated,2025,TX,25000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2429624,Reinstated,2025,CA,999985,STEM Education,EDU,Graduate Education,DGE
+2429717,Terminated,2025,WI,999864,STEM Education,EDU,Graduate Education,DGE
+2429961,Terminated,2024,WA,49639,Computer and Information Science and Engineering,CSE,Information & Intelligent Systems,IIS
+2430370,Terminated,2025,MA,275000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2430375,Terminated,2025,MA,600000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2430519,Terminated,2025,VA,1246608,STEM Education,EDU,Graduate Education,DGE
+2430996,Terminated,2025,KS,74446,Computer and Information Science and Engineering,CSE,Computer and Network Systems,CNS
+2431606,Terminated,2024,MI,26306,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2431893,Terminated,2024,IL,1154768,STEM Education,EDU,Equity for Excellence in STEM,EES
+2431915,Terminated,2024,NY,39870,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2432024,Terminated,2024,MA,37500,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2432355,Terminated,2025,NY,98531,STEM Education,EDU,Equity for Excellence in STEM,EES
+2433238,Terminated,2024,VA,400000,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2433239,Terminated,2024,GA,399696,"Technology, Innovation, and Partnerships",TIP,Innovation and Technology Ecosystems,ITE
+2433352,Terminated,2025,GA,30000,Engineering,ENG,"Civil, Mechanical, and Manufacturing Innovation",CMMI
+2433737,Terminated,2024,RI,20000,Mathematical and Physical Sciences,MPS,Physics,PHY
+2433830,Terminated,2024,TX,93265,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2434604,Terminated,2024,WA,200000,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2434664,Terminated,2024,MA,497523,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2434748,Terminated,2025,VA,749967,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2434879,Terminated,2024,MA,1199870,Biological Sciences,BIO,Molecular and Cellular Biosciences,MCB
+2435273,Terminated,2024,NC,6983,Geosciences,GEO,Earth Sciences,EAR
+2435274,Terminated,2024,IN,93016,Geosciences,GEO,Earth Sciences,EAR
+2436663,Terminated,2024,TN,580582,Engineering,ENG,Engineering Education and Centers,EEC
+2437125,Terminated,2025,MA,639227,Biological Sciences,BIO,Environmental Biology,DEB
+2437340,Terminated,2024,VA,405632,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2437382,Terminated,2024,LA,6774,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2437479,Terminated,2024,RI,100000,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2437498,Terminated,2025,MA,188200,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2437775,Terminated,2024,AK,100000,"Social, Behavioral and Economic Sciences",SBE,SBE Office of Multidisciplinary Activities,SMA
+2438001,Terminated,2025,VT,299998,STEM Education,EDU,Equity for Excellence in STEM,EES
+2438411,Terminated,2024,MD,49736,STEM Education,EDU,Equity for Excellence in STEM,EES
+2439922,Terminated,2024,MA,240000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2439991,Terminated,2025,CO,199967,STEM Education,EDU,Equity for Excellence in STEM,EES
+2440824,Terminated,2025,MA,450000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2441652,Terminated,2025,MA,450706,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2441781,Terminated,2025,MA,650000,Mathematical and Physical Sciences,MPS,Materials Research,DMR
+2443033,Terminated,2025,MA,600000,Computer and Information Science and Engineering,CSE,Computing and Communication Foundations,CCF
+2444087,Terminated,2024,CA,260740,"Social, Behavioral and Economic Sciences",SBE,Social and Economic Sciences,SES
+2444894,Terminated,2025,NJ,1999935,STEM Education,EDU,Equity for Excellence in STEM,EES
+2444914,Terminated,2025,KY,50000,"Technology, Innovation, and Partnerships",TIP,Translational Impacts,TI
+2448939,Terminated,2025,FL,62497,Engineering,ENG,Engineering Education and Centers,EEC
+2449906,Terminated,2025,IA,1969709,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2450246,Terminated,2025,CO,1316825,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2451870,Terminated,2025,DC,254278,STEM Education,EDU,Equity for Excellence in STEM,EES
+2451885,Terminated,2025,AZ,649149,Engineering,ENG,Engineering Education and Centers,EEC
+2451960,Terminated,2025,MA,100000,Engineering,ENG,"Electrical, Communications and Cyber Systems",ECCS
+2452030,Terminated,2025,TX,1978280,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2452096,Terminated,2025,CO,2529670,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
+2502675,Terminated,2025,MA,43000,Mathematical and Physical Sciences,MPS,Mathematical Sciences,DMS
+2505222,Terminated,2025,TX,324297,Geosciences,GEO,Integrative and Collaborative Education and Research,RISE
+2505370,Terminated,2025,MA,31089,"Social, Behavioral and Economic Sciences",SBE,Behavioral and Cognitive Sciences,BCS
+2510215,Terminated,2025,KY,514819,STEM Education,EDU,Equity for Excellence in STEM,EES
+2513528,Terminated,2025,FL,911180,STEM Education,EDU,Equity for Excellence in STEM,EES
+2514823,Terminated,2025,MA,762583,Mathematical and Physical Sciences,MPS,Physics,PHY
+2516400,Terminated,2025,MN,205063,STEM Education,EDU,Equity for Excellence in STEM,EES
+2520318,Terminated,2025,NY,1068770,STEM Education,EDU,Research on Learning in Formal and Informal Settings,DRL
